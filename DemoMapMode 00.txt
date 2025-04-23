@@ -4,7 +4,7 @@ Rater = LewCa On 3/5/2025 7:31:18 PM
 Course Setup by LewCa On 1/17/2025 4:02:48 PM
 
 Start = Course Info
-Course Name = ReflectionBay
+Course Name = DemoMapMode
 Address = 
 Phone Number = 
 Date Measured = 11/20/2024
