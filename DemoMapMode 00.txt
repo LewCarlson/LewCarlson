@@ -22,8 +22,8 @@ Average Rough Height = Warm Season 1.5''
 
 Average Stimpmeter = 8'6''_to_9'11''
 
-Teams = Tim Quinn,,,All:Dave Smith,1,RatePt,All:Tom Kilmer,1,RatePt,All:Lee Gess,1,RatePt,All:Ronda Henderson,2,RatePt,All:Joanne Tenbroeke,2,RatePt,All:Deb Koch,2,RatePt,All:Brian Freymueller,3,RatePt,All:Lew Carlson,3,RatePt,All:Doug Boone,3,RatePt,All:Gary McCollum,4,TeeGn,All:Tim Brand,4,TeeGn,All:
-Team Leader Men = Timm Quinn
+Teams = Teem Leader,,,All:Rater 1,1,RatePt,All:Rater 2,1,RatePt,All:Rater 3,1,RatePt,All:Rater 4,2,RatePt,All:Rater 5,2,RatePt,All:Rater 6,2,RatePt,All:Rater 7,3,RatePt,All:Rater 8,3,RatePt,All:Rater 9,3,RatePt,All:Rater 10,4,TeeGn,All:Rater 11,4,TeeGn,All:
+Team Leader Men = 
 Team Leader Women = 
 Narrator = 
 
