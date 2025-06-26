@@ -1,0 +1,3823 @@
+Course Rating Assistant (Rating File Level: V3.28)
+Notes: Based on The 2024 Course Rating System
+Rater = LewCa On 3/5/2025 7:31:18 PM
+Course Setup by LewCa On 1/17/2025 4:02:48 PM
+
+Start = Course Info
+Course Name = DemoMapMode
+Address = 
+Phone Number = 
+Date Measured = 11/20/2024
+Date Rated = 
+Number of Holes = 18
+
+Notes: Altitude in ft
+Altitude = 1467
+Notes: Average Wind Speed in mph
+Average Wind Speed = 7-8 9-10
+
+Notes: Rough Height (inches)
+Use Rough Height With Tweener = Yes
+Average Rough Height = Warm Season 1.5''
+
+Average Stimpmeter = 8'6''_to_9'11''
+
+Teams = Teem Leader,,,All:Rater 1,1,RatePt,All:Rater 2,1,RatePt,All:Rater 3,1,RatePt,All:Rater 4,2,RatePt,All:Rater 5,2,RatePt,All:Rater 6,2,RatePt,All:Rater 7,3,RatePt,All:Rater 8,3,RatePt,All:Rater 9,3,RatePt,All:Rater 10,4,TeeGn,All:Rater 11,4,TeeGn,All:
+Team Leader Men = 
+Team Leader Women = 
+Narrator = 
+
+Par Men = 4 4 3 4 4 5 4 3 5 4 4 5 3 5 4 4 3 4
+Par Women = 4 4 3 4 4 5 4 3 5 4 4 5 3 5 4 4 3 4
+
+Tee Name1 = Gold Men ScoreCardLength 387 392 217 405 452 541 449 161 556 420 406 589 171 521 450 443 191 419
+Tee Name2 = Black Men ScoreCardLength 374 377 202 399 436 527 414 154 532 393 396 559 158 511 430 408 179 379
+Tee Name3 = White Men Women ScoreCardLength 351 325 191 376 405 509 380 145 497 383 312 515 158 484 389 381 162 359
+Tee Name4 = Silver Men Women ScoreCardLength 285 313 178 362 383 494 329 139 484 327 301 459 140 477 363 341 145 321
+Tee Name5 = Bronze Men Women ScoreCardLength 265 256 148 294 321 403 285 122 442 290 265 415 123 456 326 299 134 281
+Tee Name6 = 
+Pace Policy = 
+
+Settings = BlueToothOff Rate_MapAssisted25 Airline_Disable
+End = Course Info
+
+Start = Hole 1
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 1
+
+Start = Hole 2
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 2
+
+Start = Hole 3
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 3
+
+Start = Hole 4
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 4
+
+Start = Hole 5
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 5
+
+Start = Hole 6
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 6
+
+Start = Hole 7
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 7
+
+Start = Hole 8
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 8
+
+Start = Hole 9
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 9
+
+Start = Hole 10
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 10
+
+Start = Hole 11
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 11
+
+Start = Hole 12
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 12
+
+Start = Hole 13
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 13
+
+Start = Hole 14
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 14
+
+Start = Hole 15
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 15
+
+Start = Hole 16
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 16
+
+Start = Hole 17
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 17
+
+Start = Hole 18
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No
+Green Width = 0 0,kml 0,KeyIn
+Green Depth = 0 0,kml 0,KeyIn
+Effective Green Diameter = 0
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude =  Green,,,,kml Green,,,,GPS Green,,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral ER = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Lateral OB = >50 0%R Bounce_No >50 0%R Bounce_No >50 0%R Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth =  ,kml ,KeyIn
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth =  ,kml ,KeyIn
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth =  ,kml ,KeyIn
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth =  ,kml ,KeyIn
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat Or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+End = kml
+
+Start = Generic LZs
+End = Generic LZs
+
+End = Hole 18
+
