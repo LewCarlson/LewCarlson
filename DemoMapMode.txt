@@ -1,1 +1,4660 @@
+Course Rating Assistant (Rating File Level: V3.28)
+Notes: Based on The 2024 Course Rating System
+Rater = LewCa On 7/3/2025 9:04:18 AM
+Rater = LewCa On 3/5/2025 7:31:18 PM
+Course Setup by LewCa On 1/17/2025 4:02:48 PM
+
+Start = Course Info
+Course Name = DemoMapMode
+Address = 
+Phone Number = 
+Date Measured = 11/20/2024
+Date Rated = 
+Number of Holes = 18
+
+Notes: Altitude in ft
+Altitude = 1467
+Notes: Average Wind Speed in mph
+Average Wind Speed = 7-8 7-8
+
+Notes: Rough Height (inches)
+Use Rough Height With Tweener = Yes
+Average Rough Height = Warm Season 1.5''
+
+Average Stimpmeter = 8'6''_to_9'11''
+
+Teams = Teem Leader,,,All:Rater 1,1,RatePt,All:Rater 2,1,RatePt,All:Rater 3,1,RatePt,All:Rater 4,2,RatePt,All:Rater 5,2,RatePt,All:Rater 6,2,RatePt,All:Rater 7,3,RatePt,All:Rater 8,3,RatePt,All:Rater 9,3,RatePt,All:Rater 10,4,TeeGn,All:Rater 11,4,TeeGn,All:
+Team Leader Men = 
+Team Leader Women = 
+Narrator = 
+
+Par Men = 4 4 3 4 4 5 4 3 5 4 4 5 3 5 4 4 3 4
+Par Women = 4 4 3 4 4 5 4 3 5 4 4 5 3 5 4 4 3 4
+
+Tee Name1 = Gold Men ScoreCardLength 387 392 217 405 452 541 449 161 556 420 406 589 171 521 450 443 191 419
+Tee Name2 = Black Men ScoreCardLength 374 377 202 399 436 527 414 154 532 393 396 559 158 511 430 408 179 379
+Tee Name3 = White Men Women ScoreCardLength 351 325 191 376 405 509 380 145 497 383 312 515 158 484 389 381 162 359
+Tee Name4 = Silver Men Women ScoreCardLength 285 313 178 362 383 494 329 139 484 327 301 459 140 477 363 341 145 321
+Tee Name5 = Bronze Men Women ScoreCardLength 265 256 148 294 321 403 285 122 442 290 265 415 123 456 326 299 134 281
+Tee Name6 = 
+Pace Policy = 
+
+Settings = BlueToothOff Rate_MapAssisted25 AirLine_Disable 
+End = Course Info
+
+Start = Hole 1
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP97 GA606
+Green Width = 36 36,kml 36,KeyIn
+Green Depth = 17 17,kml 17,KeyIn
+Effective Green Diameter = 23
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1454 Green,36.10849765101511,-114.9298473043296,1454,kml Green,,,,GPS Green,1454,KeyIn
+Green Bordered by Bunkers = None
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = >1/2 ApplyToPA_Yes  ApplyToER_No  ApplyToOB_No 
+Green Edge to PA/OB/ER =  5_to_10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1454 TeeLoc,36.11038600193714,-114.926692326468,1454,kml TeeLoc,,,,GPS TeeLoc,1454,KeyIn
+Tee to Pivot 1 = 284 284,KeyIn
+Altitude Pivot 1 = 1454 P1Loc,36.10911377943442,-114.9291193294921,1454,kml P1Loc,,,,GPS P1Loc,1454,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 104 104,KeyIn
+Horizontal Length = 388
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1454 TeeLoc,36.11008971267761,-114.9266946236781,1454,kml TeeLoc,,,,GPS TeeLoc,1454,KeyIn
+Tee to Pivot 1 = 266 266,KeyIn
+Altitude Pivot 1 = 1454 P1Loc,36.10911377943442,-114.9291193294921,1454,kml P1Loc,,,,GPS P1Loc,1454,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 104 104,KeyIn
+Horizontal Length = 370
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1455 TeeLoc,36.10997083290982,-114.9268341775344,1455,kml TeeLoc,,,,GPS TeeLoc,1455,KeyIn
+Tee to Pivot 1 = 248 248,KeyIn
+Altitude Pivot 1 = 1454 P1Loc,36.10911377943442,-114.9291193294921,1454,kml P1Loc,,,,GPS P1Loc,1454,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 104 104,KeyIn
+Horizontal Length = 352
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1451 TeeLoc,36.10960990690274,-114.9274699232439,1451,kml TeeLoc,,,,GPS TeeLoc,1451,KeyIn
+Tee to Pivot 1 = 173 173,KeyIn
+Altitude Pivot 1 = 1454 P1Loc,36.10911377943442,-114.9291193294921,1454,kml P1Loc,,,,GPS P1Loc,1454,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 104 104,KeyIn
+Horizontal Length = 277
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1451 TeeLoc,36.10951943433243,-114.9276273160354,1451,kml TeeLoc,,,,GPS TeeLoc,1451,KeyIn
+Tee to Pivot 1 = 155 155,KeyIn
+Altitude Pivot 1 = 1454 P1Loc,36.10911377943442,-114.9291193294921,1454,kml P1Loc,,,,GPS P1Loc,1454,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 104 104,KeyIn
+Horizontal Length = 259
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG251:H1T5:36.10951943433243,-114.9276273160354,1451: CWB94,100%T CWS114,100%T CMB114,100%T CMS114,100%T A1451 RCM76 RCW76
+DTG270:H1T4:36.10960990690274,-114.9274699232439,1451: CWB91,100%T CWS130,100%T CMB128,100%T CMS130,100%T A1451 RCM90 RCW90
+DTG346:H1T3:36.10997083290982,-114.9268341775344,1455: CWB141,100%T CWS142,100%T CMB140,100%T CMS165,100%T A1455 RCM157 RCW141
+DTG365:H1T2:36.11008971267761,-114.9266946236781,1454: CMB158,100%T CMS160,100%T A1454 RCM174
+DTG386:H1T1:36.11038600193714,-114.926692326468,1454: CMB174,100%T CMS174,100%T A1454 RCM189
+DTG104:H1P1:36.10911377943442,-114.9291193294921,1454:A1454 
+DTG223:H1P:36.10969004234203,-114.9281176160687,0 :
+DTG122:H1P:36.10922908976618,-114.9290015381634,0 :
+DTG067:H1P:36.10886745237267,-114.9293425174747,0 :LayupC2
+DTG000:H1Green:36.10849765101511,-114.9298473043296,1454:D17 W36 LoPD17 SFractionR1/2,E10,PA A1454 
+DTG000:H1GnO:36.10855718736725,-114.9297959439244,0 36.10857577684089,-114.9298447729377,0 36.10859390942201,-114.9298986492123,0 36.1086016159781,-114.9299250251014,0 36.10860297547943,-114.9299435442423,0 36.10859934672114,-114.9299615008283,0 36.10859345094266,-114.9299755281806,0 36.10858347433193,-114.9299923596136,0 36.10856715210551,-114.9300108758824,0 36.1085494702987,-114.9300226580666,0 36.10852816166883,-114.9300338758205,0 36.10850866747827,-114.9300411642442,0 36.10849234778421,-114.930039474465,0 36.10847602904039,-114.9300276855078,0 36.10846379008944,-114.9300108515638,0 36.10845245754521,-114.9299906525569,0 36.10844520457519,-114.9299710149294,0 36.10844067110889,-114.9299581108352,0 36.1084411226398,-114.9299395979997,0 36.10843840177372,-114.9299210827338,0 36.10843432132931,-114.9299008831,0 36.1084297876249,-114.9298773162896,0 36.10841664136711,-114.9298470154766,0 36.1083985088216,-114.929801564998,0 36.1083908010207,-114.929775752946,0 36.1083871723042,-114.9297533066084,0 36.10838671740311,-114.9297280541076,0 36.10839578151281,-114.9297112165618,0 36.10840711241725,-114.9296932549964,0 36.10842524477032,-114.9296837097151,0 36.10844247194444,-114.9296764097624,0 36.10846242081978,-114.9296747223145,0 36.10847874359146,-114.9296775271385,0 36.10849415968407,-114.9296865061014,0 36.10851365689758,-114.9297055852876,0 36.108531794332,-114.9297381362701,0 36.10854449058333,-114.9297678820445,0 36.10855718736725,-114.9297959439244,0 :GP97 GA606
+DTG102,084:H1FB:36.10922144671171,-114.9293171831315,0 36.1090942832242,-114.9294125125789,0:
+DTG109:H1T5WBLZ1:36.1091487264397,-114.929083630573,1454: CWB108,100%T A1454
+DTG067:H1T5WSLZ1:36.10886745237267,-114.9293425174747,1451: CWS65,100%T Forced MoveLayup A1451
+DTG067:H1T5MBLZ1:36.10886745237267,-114.9293425174747,1451: CMB65,100%T Forced MoveLayup A1451
+DTG067:H1T5MSLZ1:36.10886745237267,-114.9293425174747,1451: CMS65,100%T Forced MoveLayup A1451
+DTG067:H1T4WBLZ2:36.10886745237267,-114.9293425174747,1451: CWB65,100%T Forced MoveLayup A1451
+DTG130:H1T4WBLZ1:36.1092713165355,-114.928938169228,1454: A1454
+DTG067:H1T4WSLZ1:36.10886745237267,-114.9293425174747,1451: CWS65,100%T Forced MoveLayup A1451
+DTG072:H1T4MBLZ1:36.1089044790897,-114.929308968914,1452: CMB71,100%T A1452
+DTG067:H1T4MSLZ1:36.10886745237267,-114.9293425174747,1451: CMS65,100%T Forced MoveLayup A1451
+DTG076:H1T3WBLZ2:36.1089316851005,-114.929284318539,1452: CWB75,100%T A1452
+DTG215:H1T3WBLZ1:36.1096721578698,-114.928216968623,1449: Forced MoveCanNotCarryFwyNo A1449 RCW17
+DTG144:H1T3WSLZ1:36.1093455665797,-114.928826743553,1454: CWS142,100%T A1454
+DTG067:H1T3MBLZ2:36.10886745237267,-114.9293425174747,1451: CMB65,100%T Forced MoveLayup A1451
+DTG154:H1T3MBLZ1:36.1094008224266,-114.928743822121,1454: A1454
+DTG101:H1T3MSLZ1:36.1090949211649,-114.929136416283,1454: CMS99,100%T A1454
+DTG067:H1T2MBLZ2:36.10886745237267,-114.9293425174747,1451: CMB65,100%T Forced MoveLayup A1451
+DTG173:H1T2MBLZ1:36.1094999271368,-114.928595097506,1454: A1454
+DTG121:H1T2MSLZ1:36.109226485112,-114.929004198859,1454: CMS120,100%T A1454
+DTG067:H1T1MBLZ2:36.10886745237267,-114.9293425174747,1451: CMB65,100%T Forced MoveLayup A1451
+DTG189:H1T1MBLZ1:36.1095836481169,-114.928469458972,1453: A1453
+DTG139:H1T1MSLZ1:36.1093185665637,-114.92886726198,1454: CMS137,100%T A1454
+End = kml
+
+Start = Generic LZs
+DTG110:H1R:36.1091546352247,-114.929077594656,0: 
+DTG142:H1R:36.1093359975046,-114.928841103688,0: 
+DTG192:H1R:36.1095988290565,-114.928446677215,0: 
+DTG200:H1FS:36.1096426440856,-114.9283809248077,0 :
+DTG059:H1FE:36.10882610776005,-114.9294007231601,0 :
+DTG027:H1C2:36.10851497381009,-114.9295694788069,0 36.1085315698689,-114.9296311091105,0 36.10855231783644,-114.9297122603932,0 36.10856808459136,-114.9297759449873,0 36.10858799969991,-114.9298314096767,0 36.10861372275078,-114.9298858441481,0 36.10863453896545,-114.9299084441327,0 : Forced100%T
+DTG135:H1C1:36.10908250031153,-114.9286839942691,0 36.10914972194035,-114.9285903822672,0 36.10929256711557,-114.9284655632833,0 36.10939619972403,-114.9283303588391,0 36.10946622380524,-114.9281778164605,0 36.10953064575676,-114.9280946088892,0 36.10959787421019,-114.9280772780163,0 36.10965949841239,-114.9281015481467,0 36.10973512408849,-114.9281535503761,0 : Forced100%T
+DTG071:H1R:36.1088949369382,-114.92931761471,0:
+End = Generic LZs
+
+End = Hole 1
+
+Start = Hole 2
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP93 GA526
+Green Width = 30 30,kml 30,KeyIn
+Green Depth = 18 18,kml 18,KeyIn
+Effective Green Diameter = 24
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1501 Green,36.10982098672434,-114.9343213852779,1501,kml Green,,,,GPS Green,1501,KeyIn
+Green Bordered by Bunkers = >1/4_to_1/2
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1483 TeeLoc,36.10813401819181,-114.93098717895,1483,kml TeeLoc,,,,GPS TeeLoc,1483,KeyIn
+Tee to Pivot 1 = 259 259,KeyIn
+Altitude Pivot 1 = 1487 P1Loc,36.10909806186597,-114.9333420773481,1487,kml P1Loc,,,,GPS P1Loc,1487,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 130 130,KeyIn
+Horizontal Length = 389
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1481 TeeLoc,36.1081074695083,-114.9311860213796,1481,kml TeeLoc,,,,GPS TeeLoc,1481,KeyIn
+Tee to Pivot 1 = 244 244,KeyIn
+Altitude Pivot 1 = 1487 P1Loc,36.10909806186597,-114.9333420773481,1487,kml P1Loc,,,,GPS P1Loc,1487,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 130 130,KeyIn
+Horizontal Length = 374
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1467 TeeLoc,36.10833558327969,-114.9315981625189,1467,kml TeeLoc,,,,GPS TeeLoc,1467,KeyIn
+Tee to Pivot 1 = 195 195,KeyIn
+Altitude Pivot 1 = 1487 P1Loc,36.10909806186597,-114.9333420773481,1487,kml P1Loc,,,,GPS P1Loc,1487,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 130 130,KeyIn
+Horizontal Length = 325
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1467 TeeLoc,36.1083991743139,-114.9317031044814,1467,kml TeeLoc,,,,GPS TeeLoc,1467,KeyIn
+Tee to Pivot 1 = 182 182,KeyIn
+Altitude Pivot 1 = 1487 P1Loc,36.10909806186597,-114.9333420773481,1487,kml P1Loc,,,,GPS P1Loc,1487,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 130 130,KeyIn
+Horizontal Length = 312
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1477 TeeLoc,36.10849354245337,-114.9323107433511,1477,kml TeeLoc,,,,GPS TeeLoc,1477,KeyIn
+Tee to Pivot 1 = 125 125,KeyIn
+Altitude Pivot 1 = 1487 P1Loc,36.10909806186597,-114.9333420773481,1487,kml P1Loc,,,,GPS P1Loc,1487,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 130 130,KeyIn
+Horizontal Length = 255
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG255:H2T5:36.10849354245337,-114.9323107433511,1477: A1477 RCM21 RCW21
+DTG310:H2T4:36.1083991743139,-114.9317031044814,1467: CWB37,75%T CWS37,75%T CMB37,75%T CMS37,75%T A1467 RCM77 RCW77
+DTG323:H2T3:36.10833558327969,-114.9315981625189,1467: CWB50,75%T CWS50,75%T CMB50,75%T CMS50,75%T A1467 RCM89 RCW89
+DTG372:H2T2:36.1081074695083,-114.9311860213796,1481: CMB99,75%T CMS99,75%T A1481 RCM138
+DTG386:H2T1:36.10813401819181,-114.93098717895,1483: CMB114,75%T CMS114,75%T A1483 RCM154
+DTG130:H2P1:36.10909806186597,-114.9333420773481,1487:A1487 
+DTG032:H2P:36.10976720919695,-114.9340019442903,0 :
+DTG041:H2P:36.10970105803691,-114.9339340927737,0 :
+DTG059:H2P:36.10953472804965,-114.9338358213959,0 :
+DTG087:H2P:36.10940432968423,-114.9336041897479,0 :
+DTG108:H2P:36.10921528510703,-114.9335105406798,0 :
+DTG153:H2P:36.10901113723575,-114.9331314854967,0 :
+DTG169:H2P:36.10892039739638,-114.9330051213342,0 :
+DTG019:H2GS:36.10979115489635,-114.9341279679753,0 :
+DTG000:H2Green:36.10982098672434,-114.9343213852779,1501:D18 W30 LoPD20 A1501 BFraction>1/4
+DTG000:H2GnO:36.10979256561948,-114.9341277129049,0 36.10981827396702,-114.9341321561864,0 36.10983441535237,-114.934139558144,0 36.10984936033478,-114.9341676810377,0 36.10986968465618,-114.9342106035079,0 36.10988582455576,-114.934237983985,0 36.10989658374255,-114.93426758382,0 36.10990136461857,-114.9342868230216,0 36.10990435203995,-114.934311241449,0 36.1099043508003,-114.9343334396449,0 36.10990255631532,-114.9343571175524,0 36.10989358867787,-114.9343719155051,0 36.10987386034448,-114.934396331466,0 36.10985771939541,-114.9344170485328,0 36.10984875224194,-114.9344274072085,0 36.10983858904988,-114.9344488626427,0 36.10982782856372,-114.934463658211,0 36.10981049302654,-114.9344791923049,0 36.10979913557809,-114.9344880684583,0 36.10978359415229,-114.9344947246763,0 36.10976446642986,-114.9344932429262,0 36.10974713190368,-114.9344821440389,0 36.10973218791845,-114.9344614279703,0 36.10972501341073,-114.9344347947327,0 36.10972202155151,-114.9344029830726,0 36.10973517325274,-114.9343600684971,0 36.10974892329913,-114.9343223322245,0 36.10975968416853,-114.9342919948168,0 36.10976087905915,-114.9342572162585,0 36.10976207447106,-114.9342394563964,0 36.10975908465177,-114.9342031952938,0 36.10975669282205,-114.9341802535748,0 36.10976028013346,-114.9341632327874,0 36.1097710422815,-114.9341410322474,0 36.10979256561948,-114.9341277129049,0 :GP93 GA526
+DTG023,016:H2GB:36.10987672191299,-114.9340990652301,0 36.10994899415196,-114.9342910082356,0:
+DTG019,017:H2GB:36.1098543746632,-114.9345154655472,0 36.10994110687078,-114.9344048687522,0:
+DTG024,015:H2GB:36.10967785062678,-114.9341495002037,0 36.10970568980407,-114.9342735431978,0:
+DTG021,019:H2GB:36.10966115571809,-114.9343895293569,0 36.1096639332432,-114.9343034070456,0:
+DTG031,020:H2FB:36.10962701503951,-114.934123457976,0 36.10968747391045,-114.9341950370194,0:
+DTG152,118:H2FB:36.10924962543915,-114.9329455049715,0 36.10937852182202,-114.9332535129536,0:
+DTG105:H2T5WBLZ1:36.1092424741018,-114.933524009588,1489: A1489
+DTG046:H2T5WSLZ1:36.1096466595002,-114.933901952934,1495: A1495
+DTG055:H2T5MBLZ1:36.1095659893645,-114.933854291261,1495: A1495
+DTG006:H2T5MSLZ1:36.1098120271286,-114.934263294945,1500: A1500
+DTG036:H2T4WBLZ2:36.1097378289178,-114.933971808817,1496: A1496
+DTG162:H2T4WBLZ1:36.1089613680188,-114.933062176961,1484: A1484
+DTG101:H2T4WSLZ1:36.1092792733427,-114.933542239228,1489: A1489
+DTG112:H2T4MBLZ1:36.1091965555162,-114.933483624095,1488: A1488
+DTG060:H2T4MSLZ1:36.1095303557306,-114.933828054677,1495: A1495
+DTG046:H2T3WBLZ2:36.1096464368595,-114.933901821393,1495: A1495
+DTG175:H2T3WBLZ1:36.1088976302294,-114.93295733795,1483: A1483
+DTG115:H2T3WSLZ1:36.1091813679111,-114.933461797753,1488: A1488
+DTG125:H2T3MBLZ1:36.1091265744664,-114.933383053247,1487: A1487
+DTG073:H2T3MSLZ1:36.1094698484764,-114.933720573307,1494: A1494
+DTG004:H2T2MBLZ2:36.1098145715921,-114.934279792199,1500: A1500
+DTG174:H2T2MBLZ1:36.1089027267328,-114.932968034414,1484: A1484
+DTG124:H2T2MSLZ1:36.1091326387752,-114.933391768359,1488: A1488
+DTG022:H2T1MBLZ2:36.1097855255678,-114.934098341414,1498: A1498
+DTG189:H2T1MBLZ1:36.1088360962167,-114.932828191299,1481: A1481
+DTG139:H2T1MSLZ1:36.1090630422335,-114.933257235466,1484: A1484
+DTG029:H2GS10:36.1097723277111,-114.934028882489,0:A1501
+End = kml
+
+Start = Generic LZs
+DTG039:H2R:36.1097138102239,-114.933947172744,0: 
+DTG063:H2R:36.1095161271102,-114.933802779829,0: 
+DTG235:H2FS:36.10864229862649,-114.9324214518614,0 :
+DTG284:H2C2:36.10844263404772,-114.9319893148931,0 36.10852249573867,-114.9319294042132,0 : Forced75%T
+DTG236:H2C1:36.10883127662422,-114.9322499423885,0 36.10877008040938,-114.9322187486896,0 36.10871068578313,-114.9322098335866,0 36.10865669347724,-114.9321340924214,0 36.1086224958833,-114.9320516625192,0 36.10857389757946,-114.9319090709942,0 36.10857029692093,-114.9318578263508,0 36.10854509699435,-114.9318065803912,0 36.10848209671398,-114.9317196849101,0 36.10841369692399,-114.9316327885204,0 36.10836329299653,-114.9315392052399,0 36.10833019188685,-114.9315250203186,0 36.10829521646249,-114.9315518182161,0 : Forced75%T
+DTG181:H2R:36.1088715159571,-114.932902529712,0:
+DTG150:H2R:36.1090220621638,-114.933157953263,0:
+DTG113:H2R:36.1091910658225,-114.933475734772,0:
+End = Generic LZs
+
+End = Hole 2
+
+Start = Hole 3
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP87 GA509
+Green Width = 16 16,kml 16,KeyIn
+Green Depth = 32 32,kml 32,KeyIn
+Effective Green Diameter = 24
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1497 Green,36.10911725713174,-114.9368975849616,1497,kml Green,,,,GPS Green,1497,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1524 TeeLoc,36.11032147244686,-114.9352892401688,1524,kml TeeLoc,,,,GPS TeeLoc,1524,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 215 215,KeyIn
+Horizontal Length = 215
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1520 TeeLoc,36.11015791673219,-114.9352672811987,1520,kml TeeLoc,,,,GPS TeeLoc,1520,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 204 204,KeyIn
+Horizontal Length = 204
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1519 TeeLoc,36.11015829615759,-114.935368926494,1519,kml TeeLoc,,,,GPS TeeLoc,1519,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 196 196,KeyIn
+Horizontal Length = 196
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1517 TeeLoc,36.1099952674678,-114.9353795308236,1517,kml TeeLoc,,,,GPS TeeLoc,1517,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 183 183,KeyIn
+Horizontal Length = 183
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1513 TeeLoc,36.10979849756198,-114.9356299887364,1513,kml TeeLoc,,,,GPS TeeLoc,1513,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 150 150,KeyIn
+Horizontal Length = 150
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG150:H3T5:36.10979849756198,-114.9356299887364,1513: CWB35,25%T CWS35,25%T CMB35,25%T CMS35,25%T A1513 RCM77 RCW77
+DTG183:H3T4:36.1099952674678,-114.9353795308236,1517: CWB69,25%T CWS70,25%T CMB70,25%T CMS70,25%T A1517 RCM110 RCW110
+DTG196:H3T3:36.11015829615759,-114.935368926494,1519: CWS91,50%T CMB91,50%T CMS91,50%T A1519 RCM123 RCW123
+DTG204:H3T2:36.11015791673219,-114.9352672811987,1520: CMB92,25%T CMS92,25%T A1520 RCM131
+DTG215:H3T1:36.11032147244686,-114.9352892401688,1524: CMB113,50%T CMS113,50%T A1524 RCM142
+DTG026:H3P:36.10919688765891,-114.9366568846723,0 :
+DTG016:H3GS:36.10919256396377,-114.9367688841613,0 :
+DTG000:H3Green:36.10911725713174,-114.9368975849616,1497:D32 W16 LoPD32 A1497 BFraction>0
+DTG000:H3GnO:36.10920602862087,-114.9367751100727,0 36.1092164793317,-114.9367874348234,0 36.10922444091998,-114.9367985270161,0 36.10922941577296,-114.9368126986628,0 36.1092309053253,-114.9368330309053,0 36.10922791584099,-114.9368552095106,0 36.10922094556069,-114.936876770849,0 36.10921098981963,-114.9368958671799,0 36.10919356962219,-114.9369155787328,0 36.10917664681595,-114.9369352901532,0 36.10916719018915,-114.9369451458249,0 36.10915474735966,-114.9369593142486,0 36.10914578828933,-114.9369710190178,0 36.10913483781437,-114.9369882676321,0 36.10912338943098,-114.9370067485923,0 36.10911741612123,-114.9370209175396,0 36.10910795884898,-114.9370313907574,0 36.10909850132325,-114.9370437123847,0 36.10908487980915,-114.9370511931681,0 36.10906963206337,-114.9370504897351,0 36.10905669077791,-114.9370461772683,0 36.10904474608511,-114.9370320063532,0 36.10902234921707,-114.9370104417599,0 36.10900492885644,-114.9369975028596,0 36.10899149021576,-114.9369802517524,0 36.10898302909427,-114.9369599203733,0 36.10898153508152,-114.9369402059037,0 36.10898999664669,-114.9369106340459,0 36.10900542571276,-114.9368872231958,0 36.10902882080087,-114.936860115249,0 36.10904964128471,-114.9368363738122,0 36.10906079631396,-114.9368247766091,0 36.10907013745161,-114.936815140529,0 36.10909303659438,-114.9367991241919,0 36.1091204150672,-114.936782492902,0 36.10914779217968,-114.9367744875692,0 36.10918512397121,-114.9367689462292,0 36.10920602862087,-114.9367751100727,0 :GP87 GA509
+DTG024,018:H3GB:36.10892069098384,-114.9369075087264,0 36.10901343681532,-114.9367628699192,0:
+DTG042,030:H3FB:36.1094059782742,-114.9366716618417,0 36.10935133867378,-114.9367895587447,0:
+DTG034:H3T4WBLZ1:36.1092531965454,-114.936599173529,1495: A1495
+DTG047:H3T3WBLZ1:36.1093394017137,-114.936510821598,1496: A1496
+DTG004:H3T2MBLZ1:36.1091371306958,-114.936863620665,1497: A1497
+DTG016:H3T1MBLZ1:36.1091922653652,-114.936769394472,1496: A1496
+DTG025:H3GS10:36.1091964889826,-114.936667211844,0:A1497
+End = kml
+
+Start = Generic LZs
+DTG035:H3R:36.1092622984862,-114.936589844923,0: 
+DTG074:H3FS:36.10951392007186,-114.9363319572191,0 :
+DTG111:H3C2:36.1097633224633,-114.9361039621795,0 36.10973954748567,-114.9360483889606,0 36.10972898768242,-114.935979750901,0 : Forced50%T
+DTG122:H3C1:36.10975011347755,-114.9359307230435,0 36.10967883760598,-114.9358326716069,0 : Forced25%T
+End = Generic LZs
+
+End = Hole 3
+
+Start = Hole 4
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP86 GA482
+Green Width = 17 17,kml 17,KeyIn
+Green Depth = 34 34,kml 34,KeyIn
+Effective Green Diameter = 26
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1454 Green,36.1064286896375,-114.9334849431688,1454,kml Green,,,,GPS Green,1454,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1498 TeeLoc,36.10882979735388,-114.9360309831793,1498,kml TeeLoc,,,,GPS TeeLoc,1498,KeyIn
+Tee to Pivot 1 = 247 247,KeyIn
+Altitude Pivot 1 = 1473 P1Loc,36.10771473429877,-114.9339245513387,1473,kml P1Loc,,,,GPS P1Loc,1473,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 162 162,KeyIn
+Horizontal Length = 409
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1495 TeeLoc,36.10876287283867,-114.935990887665,1495,kml TeeLoc,,,,GPS TeeLoc,1495,KeyIn
+Tee to Pivot 1 = 240 240,KeyIn
+Altitude Pivot 1 = 1473 P1Loc,36.10771473429877,-114.9339245513387,1473,kml P1Loc,,,,GPS P1Loc,1473,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 162 162,KeyIn
+Horizontal Length = 402
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1490 TeeLoc,36.10863422673067,-114.9358239131637,1490,kml TeeLoc,,,,GPS TeeLoc,1490,KeyIn
+Tee to Pivot 1 = 218 218,KeyIn
+Altitude Pivot 1 = 1473 P1Loc,36.10771473429877,-114.9339245513387,1473,kml P1Loc,,,,GPS P1Loc,1473,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 162 162,KeyIn
+Horizontal Length = 380
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1487 TeeLoc,36.10858506007784,-114.9356866626842,1487,kml TeeLoc,,,,GPS TeeLoc,1487,KeyIn
+Tee to Pivot 1 = 203 203,KeyIn
+Altitude Pivot 1 = 1473 P1Loc,36.10771473429877,-114.9339245513387,1473,kml P1Loc,,,,GPS P1Loc,1473,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 162 162,KeyIn
+Horizontal Length = 365
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1481 TeeLoc,36.10830482743015,-114.9351218838944,1481,kml TeeLoc,,,,GPS TeeLoc,1481,KeyIn
+Tee to Pivot 1 = 138 138,KeyIn
+Altitude Pivot 1 = 1473 P1Loc,36.10771473429877,-114.9339245513387,1473,kml P1Loc,,,,GPS P1Loc,1473,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 162 162,KeyIn
+Horizontal Length = 300
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG279:H4T5:36.10830482743015,-114.9351218838944,1481: A1481 RCM48 RCW48
+DTG340:H4T4:36.10858506007784,-114.9356866626842,1487: CWB63,75%T CWS71,75%T CMB62,75%T CMS98,75%T A1487 RCM113 RCW113
+DTG353:H4T3:36.10863422673067,-114.9358239131637,1490: CWB78,75%T CWS77,75%T CMB77,75%T CMS113,75%T A1490 RCM127 RCW127
+DTG376:H4T2:36.10876287283867,-114.935990887665,1495: CMB99,75%T CMS131,75%T A1495 RCM149
+DTG384:H4T1:36.10882979735388,-114.9360309831793,1498: CMB106,75%T CMS113,75%T A1498 RCM157
+DTG162:H4P1:36.10771473429877,-114.9339245513387,1473:A1473 
+DTG148:H4P:36.10759771006452,-114.9338921216214,0 :StartL2
+DTG144:H4P:36.10759732830027,-114.9336920510743,0 :
+DTG147:H4P:36.10753344656422,-114.934087458056,0 :L2 Right
+DTG093:H4P:36.10718849089914,-114.9335853508246,0 :
+DTG098:H4P:36.10715652752124,-114.9339056082737,0 :L2
+DTG091:H4P:36.10714770302508,-114.9337275034887,0 :EndL2
+DTG067:H4P:36.10696383401658,-114.9336523585389,0 :
+DTG017:H4GS:36.10654419625052,-114.9335747236005,0 :
+DTG000:H4Green:36.1064286896375,-114.9334849431688,1454:D34 W17 LoPD29 A1454 BFraction>0
+DTG000:H4GnO:36.10653745567713,-114.9335802841151,0 36.1065256603042,-114.9335858444067,0 36.10651498848507,-114.933589319423,0 36.10647273100388,-114.9335880322465,0 36.10645169332577,-114.9335887545153,0 36.10642714948923,-114.9335865835816,0 36.10640434160649,-114.9335851437051,0 36.10638449014903,-114.933581518278,0 36.1063634528762,-114.9335684977293,0 36.10634592146292,-114.9335554774986,0 36.10633014274328,-114.9335330542511,0 36.10631962300763,-114.9335113541023,0 36.10630735138549,-114.933473017202,0 36.10630209365104,-114.9334426375711,0 36.10630384817106,-114.9334129817073,0 36.10631086133296,-114.9333956222086,0 36.10632196525007,-114.9333703061906,0 36.10633306867787,-114.9333558398223,0 36.10634826274084,-114.9333514995237,0 36.10636696265088,-114.9333449888684,0 36.10638449395528,-114.9333442641162,0 36.1064026091934,-114.9333580051724,0 36.10642715312999,-114.9333869368716,0 36.1064441012166,-114.9334100848842,0 36.10646689387233,-114.9334317870494,0 36.10648617937752,-114.9334527671004,0 36.1065060491799,-114.9334715765246,0 36.1065253336514,-114.9334932790646,0 36.10654111053017,-114.9335135341503,0 36.10655455024131,-114.933532341788,0 36.10655513252381,-114.933549701569,0 36.10654987125378,-114.9335677841582,0 36.10654981376701,-114.9335677727707,0 36.10653745567713,-114.9335802841151,0 :GP86 GA482
+DTG020,018:H4GB:36.10659567466717,-114.9335093264511,0 36.10657007176084,-114.9334416033864,0:
+DTG017,015:H4GB:36.10655144731916,-114.9334070159967,0 36.10647227570935,-114.9333464884696,0:
+DTG021,019:H4GB:36.10625865970491,-114.9334999575567,0 36.10629940000599,-114.933592882803,0:
+DTG180,164:H4FB:36.10771627482619,-114.9343986541668,0 36.107597188025,-114.9343204851183,0:
+DTG141,119:H4FB:36.10759177604518,-114.9334427707196,0 36.10740592793707,-114.9334673338365,0:
+DTG137,119:H4FB:36.10749434880657,-114.9339296513785,0 36.10736081398584,-114.933869346153,0:Xing
+DTG036,027:H4FB:36.10662501015504,-114.9337534841329,0 36.10655648376257,-114.9337150791822,0:
+DTG026,017:H4FB:36.1066240166795,-114.9335949914399,0 36.10654351714361,-114.9335750644533,0:BSQ<30
+DTG004:H4T5WBLZ2:36.1064561978984,-114.933506324659,1454: A1454
+DTG134:H4T5WBLZ1:36.107434579443,-114.934039758252,1468: L2 A1468
+DTG076:H4T5WSLZ1:36.1070302866868,-114.933679516909,1461: A1461
+DTG087:H4T5MBLZ1:36.1071163393807,-114.933714685562,1461: A1461
+DTG030:H4T5MSLZ1:36.106659523361,-114.933596059652,1456: A1456
+DTG074:H4T4WBLZ2:36.1070209942452,-114.933675719205,1461: A1461
+DTG202:H4T4WBLZ1:36.1079118021798,-114.93440732233,1476: A1476
+DTG138:H4T4WSLZ1:36.1074683686129,-114.934056060302,1468: L2 A1468
+DTG164:H4T4MBLZ1:36.1077255259347,-114.933950988365,1474: A1474
+DTG096:H4T4MSLZ1:36.1071542367457,-114.933859373556,1465: L2 A1465
+DTG088:H4T3WBLZ2:36.1071277401914,-114.93371934493,1461: A1461
+DTG214:H4T3WBLZ1:36.1079661312061,-114.934540415951,1476: A1476
+DTG167:H4T3WSLZ1:36.1077427332168,-114.933993142249,1474: A1474
+DTG005:H4T3MBLZ2:36.1064610727801,-114.933510113784,1455: A1455
+DTG175:H4T3MBLZ1:36.1077799291303,-114.934084263684,1475: A1475
+DTG109:H4T3MSLZ1:36.1072448697273,-114.933948230187,1466: L2 A1466
+DTG021:H4T2MBLZ2:36.1065858376311,-114.933582427449,1455: A1455
+DTG191:H4T2MBLZ1:36.1078627020905,-114.934287038402,1476: A1476
+DTG135:H4T2MSLZ1:36.1074404025199,-114.934042567676,1468: L2 A1468
+DTG028:H4T1MBLZ2:36.1066385400079,-114.933592177634,1456: A1456
+DTG198:H4T1MBLZ1:36.1078919248023,-114.934358627326,1476: A1476
+DTG144:H4T1MSLZ1:36.1075124247867,-114.93407731581,1470: L2 A1470
+DTG026:H4GS10:36.1066255270757,-114.933589770181,0:A1454
+End = kml
+
+Start = Generic LZs
+DTG109:H4R:36.1072434783523,-114.933947558899,0: L2 Right
+DTG159:H4R:36.1076887220599,-114.933917342836,0: 
+DTG233:H4FS:36.1080516566599,-114.9347499336451,0 :
+DTG294:H4C1:36.10842371745353,-114.9351838591205,0 36.10837463212805,-114.9352341917253,0 36.10832975442568,-114.9352411280086,0 36.10825543537285,-114.9352133501916,0 36.10822038247439,-114.9351821066232,0 36.10818112049102,-114.9351317711085,0 36.10814466220923,-114.9350744896497,0 36.10811381056453,-114.9350362990073,0 36.10808155410182,-114.9350380309771,0 36.10806191924724,-114.9350519153808,0 36.10802685625078,-114.9350692699082,0 36.10799740000931,-114.9351213421218,0 : Forced75%T
+DTG202:H4R:36.1079125521018,-114.934409159466,0:
+DTG081:H4R:36.1070725045276,-114.933696770809,0:
+End = Generic LZs
+
+End = Hole 4
+
+Start = Hole 5
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP89 GA518
+Green Width = 36 36,kml 36,KeyIn
+Green Depth = 17 17,kml 17,KeyIn
+Effective Green Diameter = 23
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1481 Green,36.10852921321447,-114.9365441908682,1481,kml Green,,,,GPS Green,1481,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1456 TeeLoc,36.10567831821155,-114.933650303535,1456,kml TeeLoc,,,,GPS TeeLoc,1456,KeyIn
+Tee to Pivot 1 = 298 298,KeyIn
+Altitude Pivot 1 = 1471 P1Loc,36.10772543059073,-114.9353199049226,1471,kml P1Loc,,,,GPS P1Loc,1471,KeyIn
+Pivot 1 to Pivot 2 = 113 113,KeyIn
+Altitude Pivot 2 = 1480 P2Loc,36.10823677204983,-114.9362851910644,1480,kml P2Loc,,,,GPS P2Loc,1480,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 44 44,KeyIn
+Horizontal Length = 455
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1454 TeeLoc,36.10576320922549,-114.9337282330479,1454,kml TeeLoc,,,,GPS TeeLoc,1454,KeyIn
+Tee to Pivot 1 = 285 285,KeyIn
+Altitude Pivot 1 = 1471 P1Loc,36.10772543059073,-114.9353199049226,1471,kml P1Loc,,,,GPS P1Loc,1471,KeyIn
+Pivot 1 to Pivot 2 = 113 113,KeyIn
+Altitude Pivot 2 = 1480 P2Loc,36.10823677204983,-114.9362851910644,1480,kml P2Loc,,,,GPS P2Loc,1480,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 44 44,KeyIn
+Horizontal Length = 442
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1450 TeeLoc,36.10598291684967,-114.9339763747414,1450,kml TeeLoc,,,,GPS TeeLoc,1450,KeyIn
+Tee to Pivot 1 = 250 250,KeyIn
+Altitude Pivot 1 = 1471 P1Loc,36.10772543059073,-114.9353199049226,1471,kml P1Loc,,,,GPS P1Loc,1471,KeyIn
+Pivot 1 to Pivot 2 = 113 113,KeyIn
+Altitude Pivot 2 = 1480 P2Loc,36.10823677204983,-114.9362851910644,1480,kml P2Loc,,,,GPS P2Loc,1480,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 44 44,KeyIn
+Horizontal Length = 407
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1450 TeeLoc,36.10611837834843,-114.9341023463339,1450,kml TeeLoc,,,,GPS TeeLoc,1450,KeyIn
+Tee to Pivot 1 = 229 229,KeyIn
+Altitude Pivot 1 = 1471 P1Loc,36.10772543059073,-114.9353199049226,1471,kml P1Loc,,,,GPS P1Loc,1471,KeyIn
+Pivot 1 to Pivot 2 = 113 113,KeyIn
+Altitude Pivot 2 = 1480 P2Loc,36.10823677204983,-114.9362851910644,1480,kml P2Loc,,,,GPS P2Loc,1480,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 44 44,KeyIn
+Horizontal Length = 386
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1454 TeeLoc,36.10667615296693,-114.9342048537936,1454,kml TeeLoc,,,,GPS TeeLoc,1454,KeyIn
+Tee to Pivot 1 = 168 168,KeyIn
+Altitude Pivot 1 = 1471 P1Loc,36.10772543059073,-114.9353199049226,1471,kml P1Loc,,,,GPS P1Loc,1471,KeyIn
+Pivot 1 to Pivot 2 = 113 113,KeyIn
+Altitude Pivot 2 = 1480 P2Loc,36.10823677204983,-114.9362851910644,1480,kml P2Loc,,,,GPS P2Loc,1480,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 44 44,KeyIn
+Horizontal Length = 325
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG322:H5T5:36.10667615296693,-114.9342048537936,1454: A1454 RCM35 RCW35
+DTG379:H5T4:36.10611837834843,-114.9341023463339,1450: A1450 RCM77 RCW77
+DTG399:H5T3:36.10598291684967,-114.9339763747414,1450: A1450 RCM97 RCW97
+DTG436:H5T2:36.10576320922549,-114.9337282330479,1454: A1454 RCM133
+DTG448:H5T1:36.10567831821155,-114.933650303535,1456: A1456 RCM146
+DTG044:H5P2:36.10823677204983,-114.9362851910644,1480:A1480 
+DTG155:H5P1:36.10772543059073,-114.9353199049226,1471:A1471 
+DTG096:H5P:36.10801909384382,-114.935794693621,0 :
+DTG221:H5P:36.10732367868921,-114.9348621434122,0 :
+DTG014:H5GS:36.10843625906106,-114.9364575351168,0 :
+DTG000:H5Green:36.10852921321447,-114.9365441908682,1481:D17 W36 LoPD28 A1481 BFraction>0
+DTG000:H5GnO:36.10843447833573,-114.9364558313273,0 36.10843533482058,-114.9364341252312,0 36.10843576346327,-114.9364129482873,0 36.10844517386062,-114.9363938893418,0 36.10845843442778,-114.9363795976884,0 36.10847426092909,-114.9363716610547,0 36.10849265274084,-114.9363684874313,0 36.10851275466683,-114.9363716675896,0 36.10852857922256,-114.9363780208801,0 36.10854226548797,-114.9363875487412,0 36.10855338511647,-114.9364007853873,0 36.1085640768813,-114.9364108461601,0 36.10857519641691,-114.9364261993846,0 36.10858503355246,-114.93643996327,0 36.10859144909237,-114.9364595502314,0 36.10859658152145,-114.9364780790488,0 36.10860000212234,-114.9365029618985,0 36.10859914519475,-114.9365225506417,0 36.10859871605303,-114.9365410804512,0 36.10859743029523,-114.9365649041826,0 36.10859699836467,-114.9365871390606,0 36.10859613979265,-114.9366061962239,0 36.108594424204,-114.9366326624834,0 36.10859356677401,-114.9366432481914,0 36.10859099869116,-114.9366580680986,0 36.10858757523533,-114.9366750046337,0 36.10858543535984,-114.9366855892254,0 36.10858201303201,-114.9366945859344,0 36.10857474202844,-114.9367062285845,0 36.10856704411348,-114.9367131080408,0 36.10856148432011,-114.9367194580275,0 36.10855293201268,-114.9367210456437,0 36.10854095901004,-114.9367199875513,0 36.10852941376078,-114.936714696286,0 36.10851615766622,-114.9367057004756,0 36.10850076263392,-114.9366935286036,0 36.10848408346757,-114.936676063064,0 36.10847595754561,-114.9366533019432,0 36.10846740394159,-114.9366268330918,0 36.10846398345998,-114.9365940102126,0 36.10845671444258,-114.9365442450423,0 36.1084485905569,-114.936500303266,0 36.10843447833573,-114.9364558313273,0 :GP89 GA518
+DTG021,021:H5GB:36.10838976011927,-114.9366749433493,0 36.10844036479215,-114.9367313157556,0:
+DTG059,041:H5FB:36.10828644404543,-114.936028590228,0 36.10837007634164,-114.9361783425836,0:
+DTG225,202:H5FB:36.10712869299751,-114.9350456415169,0 36.10727729206985,-114.9351963641379,0:
+DTG045:H5T5WBLZ2:36.1082323773324,-114.936275288384,1480: A1480
+DTG173:H5T5WBLZ1:36.1076154373951,-114.935194577199,1470: A1470
+DTG112:H5T5WSLZ1:36.1079382116781,-114.935663925002,1475: A1475
+DTG123:H5T5MBLZ1:36.1078874728658,-114.935581891535,1475: A1475
+DTG072:H5T5MSLZ1:36.1081183522325,-114.936018353981,1477: A1477
+DTG104:H5T4WBLZ2:36.1079798025074,-114.935731168198,1475: A1475
+DTG234:H5T4WBLZ1:36.1072104537043,-114.934812405559,1463: A1463
+DTG174:H5T4WSLZ1:36.1076072695836,-114.935185270685,1470: A1470
+DTG015:H5T4MBLZ2:36.1084312690192,-114.936453224039,1482: A1482
+DTG184:H5T4MBLZ1:36.1075453152203,-114.935114679051,1469: A1469
+DTG133:H5T4MSLZ1:36.1078365840866,-114.935499615605,1475: A1475
+DTG124:H5T3WBLZ2:36.1078820740562,-114.935573162851,1475: A1475
+DTG252:H5T3WBLZ1:36.1070501872643,-114.934742003177,1459: A1459
+DTG005:H5T3WSLZ2:36.1084947271928,-114.936512041556,1481: A1481
+DTG195:H5T3WSLZ1:36.1074805172487,-114.935040847373,1468: A1468
+DTG036:H5T3MBLZ2:36.1082855463633,-114.93632732896,1481: A1481
+DTG205:H5T3MBLZ1:36.1074183813785,-114.934970048928,1466: A1466
+DTG155:H5T3MSLZ1:36.1077273581706,-114.935323021394,1471: A1471
+DTG069:H5T2MBLZ2:36.1081301110709,-114.936044850341,1477: A1477
+DTG239:H5T2MBLZ1:36.1071652722079,-114.934792558079,1462: A1462
+DTG191:H5T2MSLZ1:36.1075086508218,-114.935072903143,1468: A1468
+DTG081:H5T1MBLZ2:36.1080810961148,-114.935934404233,1476: A1476
+DTG251:H5T1MBLZ1:36.1070635169683,-114.934747858694,1459: A1459
+DTG203:H5T1MSLZ1:36.1074297558124,-114.934983009111,1466: A1466
+DTG024:H5GS10:36.1083688260814,-114.936399277324,0:A1481
+End = kml
+
+Start = Generic LZs
+DTG035:H5R:36.1082955743129,-114.936335992469,0: 
+DTG074:H5R:36.1081095932037,-114.935998617135,0: 
+DTG119:H5R:36.1079053719907,-114.935610830471,0: 
+DTG302:H5FS:36.10662988179007,-114.9345573699705,0 :
+DTG243:H5R:36.1071307531641,-114.934777394437,0:
+DTG194:H5R:36.1074873979342,-114.935048687318,0:
+DTG164:H5R:36.1076702964107,-114.935257084298,0:
+End = Generic LZs
+
+End = Hole 5
+
+Start = Hole 6
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP87 GA497
+Green Width = 16 16,kml 16,KeyIn
+Green Depth = 34 34,kml 34,KeyIn
+Effective Green Diameter = 22
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1438 Green,36.10499925557851,-114.9341654796659,1438,kml Green,,,,GPS Green,1438,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1479 TeeLoc,36.10861755023392,-114.9372682837239,1479,kml TeeLoc,,,,GPS TeeLoc,1479,KeyIn
+Tee to Pivot 1 = 289 289,KeyIn
+Altitude Pivot 1 = 1450 P1Loc,36.10648800422846,-114.9359575266444,1450,kml P1Loc,,,,GPS P1Loc,1450,KeyIn
+Pivot 1 to Pivot 2 = 174 174,KeyIn
+Altitude Pivot 2 = 1437 P2Loc,36.10553008169572,-114.9346412063284,1437,kml P2Loc,,,,GPS P2Loc,1437,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 543
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1480 TeeLoc,36.10853210864346,-114.9371407765226,1480,kml TeeLoc,,,,GPS TeeLoc,1480,KeyIn
+Tee to Pivot 1 = 274 274,KeyIn
+Altitude Pivot 1 = 1450 P1Loc,36.10648800422846,-114.9359575266444,1450,kml P1Loc,,,,GPS P1Loc,1450,KeyIn
+Pivot 1 to Pivot 2 = 174 174,KeyIn
+Altitude Pivot 2 = 1437 P2Loc,36.10553008169572,-114.9346412063284,1437,kml P2Loc,,,,GPS P2Loc,1437,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 528
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1480 TeeLoc,36.10840672321491,-114.9369857363179,1480,kml TeeLoc,,,,GPS TeeLoc,1480,KeyIn
+Tee to Pivot 1 = 254 254,KeyIn
+Altitude Pivot 1 = 1450 P1Loc,36.10648800422846,-114.9359575266444,1450,kml P1Loc,,,,GPS P1Loc,1450,KeyIn
+Pivot 1 to Pivot 2 = 174 174,KeyIn
+Altitude Pivot 2 = 1437 P2Loc,36.10553008169572,-114.9346412063284,1437,kml P2Loc,,,,GPS P2Loc,1437,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 508
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1479 TeeLoc,36.10833240548905,-114.9368842161457,1479,kml TeeLoc,,,,GPS TeeLoc,1479,KeyIn
+Tee to Pivot 1 = 242 242,KeyIn
+Altitude Pivot 1 = 1450 P1Loc,36.10648800422846,-114.9359575266444,1450,kml P1Loc,,,,GPS P1Loc,1450,KeyIn
+Pivot 1 to Pivot 2 = 174 174,KeyIn
+Altitude Pivot 2 = 1437 P2Loc,36.10553008169572,-114.9346412063284,1437,kml P2Loc,,,,GPS P2Loc,1437,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 496
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1468 TeeLoc,36.10747559403152,-114.9368673650539,1468,kml TeeLoc,,,,GPS TeeLoc,1468,KeyIn
+Tee to Pivot 1 = 150 150,KeyIn
+Altitude Pivot 1 = 1450 P1Loc,36.10648800422846,-114.9359575266444,1450,kml P1Loc,,,,GPS P1Loc,1450,KeyIn
+Pivot 1 to Pivot 2 = 174 174,KeyIn
+Altitude Pivot 2 = 1437 P2Loc,36.10553008169572,-114.9346412063284,1437,kml P2Loc,,,,GPS P2Loc,1437,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 404
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG401:H6T5:36.10747559403152,-114.9368673650539,1468: A1468 RCM47 RCW47
+DTG485:H6T4:36.10833240548905,-114.9368842161457,1479: CWB129,75%T CWS155,75%T CMB152,75%T CMS158,75%T A1479 RCM143 RCW131
+DTG498:H6T3:36.10840672321491,-114.9369857363179,1480: CWB134,75%T CWS156,75%T CMB152,75%T CMS165,75%T A1480 RCM154 RCW134
+DTG520:H6T2:36.10853210864346,-114.9371407765226,1480: CMB168,75%T CMS172,75%T A1480 RCM173
+DTG535:H6T1:36.10861755023392,-114.9372682837239,1479: CMB179,75%T CMS184,75%T A1479 RCM187
+DTG080:H6P2:36.10553008169572,-114.9346412063284,1437:StartL2 A1437 
+DTG253:H6P1:36.10648800422846,-114.9359575266444,1450:A1450 
+DTG388:H6P:36.10737537952646,-114.9368020092447,0 :
+DTG292:H6P:36.10679218625126,-114.9361471718388,0 :
+DTG237:H6P:36.10634718134201,-114.9359131469635,0 :
+DTG184:H6P:36.10602733826342,-114.9355443915059,0 :LayupC2
+DTG105:H6P:36.10571293352178,-114.9347743203773,0 :
+DTG071:H6P:36.1055483339354,-114.9344019863,0 :
+DTG054:H6P:36.10543209988872,-114.9342706142873,0 :
+DTG078:H6P:36.10541274039263,-114.9347695873977,0 :L2 Right
+DTG029:H6P:36.10523648577877,-114.9341974313064,0 :LayupC4
+DTG040:H6P:36.10518636380481,-114.9345025228284,0 :L2 LayupC3
+DTG388,367:H6LQ:36.10737414164587,-114.9368040166316,0 36.10726015347244,-114.9366387871322,0:LSQ<30,ERER
+DTG367,358:H6LQ:36.10726135399263,-114.9366396025032,0 36.1072129311405,-114.9365692766442,0:LSQ<40,ERER
+DTG174,167:H6LQ:36.10624666553583,-114.9350338966048,0 36.1061996011141,-114.9350000685991,0:LSQ<40,ERER
+DTG189,184:H6LQ:36.10605079841639,-114.9355800355343,0 36.10602560175022,-114.9355424217614,0:LSQ<40,ERER
+DTG000:H6Green:36.10499925557851,-114.9341654796659,1438:D34 W16 LoPD23 EndL2 A1438 BFraction>0
+DTG000:H6GnO:36.10513809503622,-114.9341456888386,0 36.10513416965097,-114.9341620845059,0 36.10512533979411,-114.934173621683,0 36.10511503745921,-114.9341827300739,0 36.10509884692267,-114.9341918384283,0 36.10508805308687,-114.9341997326317,0 36.10495900917497,-114.9342738144202,0 36.1049418369241,-114.9342786708894,0 36.10492368511801,-114.934278667645,0 36.10490798800624,-114.9342738061076,0 36.10489409550674,-114.9342665170334,0 36.10487889046091,-114.9342537618175,0 36.10487006128833,-114.9342416163756,0 36.10486368613431,-114.93421975605,0 36.10485927262263,-114.9341985037541,0 36.10485731195575,-114.9341754302797,0 36.1048597659263,-114.9341517501656,0 36.10486614372534,-114.9341365706981,0 36.10487546475625,-114.9341183550787,0 36.10488723799096,-114.9341043891138,0 36.10490391713857,-114.9340934590787,0 36.10492157809495,-114.934084350735,0 36.10494169215658,-114.9340813141989,0 36.10495984447289,-114.9340764563366,0 36.10498682797861,-114.9340770632795,0 36.10502215328874,-114.9340746339202,0 36.10505453523766,-114.9340758491396,0 36.10508740815644,-114.9340819225258,0 36.10510556180149,-114.9340898174566,0 36.10511815791212,-114.9340952840062,0 36.10512846030481,-114.9341068228669,0 36.10513630924076,-114.9341244342902,0 36.10513809503622,-114.9341456888386,0 :GP87 GA497
+DTG020,019:H6GB:36.10514913263459,-114.9340738386284,0 36.10505322041857,-114.9339880965444,0:
+DTG015,015:H6GB:36.10510969583277,-114.9342255431935,0 36.10507025830298,-114.9342849113071,0:Xing
+DTG016,012:H6GB:36.10496048137357,-114.9343231618768,0 36.1049967195158,-114.9342901828155,0:Xing
+DTG234,210:H6FB:36.10656026918878,-114.9355523758395,0 36.10635147577054,-114.9354984331283,0:
+DTG067,053:H6FB:36.10546175457934,-114.9345409973136,0 36.10534917935718,-114.9344938122963,0:Xing
+DTG053,040:H6FB:36.10541453460478,-114.9340038610961,0 36.10530922989918,-114.934026332457,0:
+DTG029,013:H6FB:36.10518212500173,-114.934354465242,0 36.10508407374492,-114.9342488290432,0:
+DTG029:H6T5WBLZ3:36.10523648577877,-114.9341974313064,1438: Forced MoveLayup A1438
+DTG128:H6T5WBLZ2:36.1058888315052,-114.934858695578,1439: A1439
+DTG252:H6T5WBLZ1:36.1064854465177,-114.935956720594,1450: CWB103,50%T A1450 RCW96
+DTG029:H6T5WSLZ2:36.10523648577877,-114.9341974313064,1438: Forced MoveLayup A1438
+DTG194:H6T5WSLZ1:36.1060719025459,-114.935622148379,1441: CWS70,50%T A1441
+DTG040:H6T5MBLZ2:36.10518636380481,-114.9345025228284,1435: Forced MoveLayup L2 A1435
+DTG204:H6T5MBLZ1:36.1061346846936,-114.9356885157,1442: CMB86,50%T A1442 RCM66
+DTG184:H6T5MSLZ1:36.10602733826342,-114.9355443915059,1437: CMS65,50%T ChoiceOnly MoveLayup A1437
+DTG029:H6T4WBLZ4:36.10523648577877,-114.9341974313064,1438: Forced MoveLayup A1438
+DTG116:H6T4WBLZ3:36.1057973553525,-114.93481481606,1437: A1437
+DTG241:H6T4WBLZ2:36.1063807315662,-114.935923720161,1449: CWB98,50%T A1449 RCW89
+DTG369:H6T4WBLZ1:36.1072709824802,-114.936656337595,1461: Forced MoveBailOut A1461 RCW15
+DTG094:H6T4WSLZ2:36.1056354134385,-114.934717886639,1437: A1437
+DTG283:H6T4WSLZ1:36.1067243450799,-114.936104875611,1451: CWS138,50%T A1451
+DTG126:H6T4MBLZ2:36.1058752596033,-114.934852185373,1439: A1439
+DTG293:H6T4MBLZ1:36.1067975645147,-114.936152537216,1451: CMB139,50%T A1451 RCM129
+DTG038:H6T4MSLZ2:36.1053100074264,-114.934224937161,1438: Forced MoveBailOut A1438
+DTG246:H6T4MSLZ1:36.1064240838749,-114.935937382441,1450: CMS109,50%T A1450
+DTG106:H6T3WBLZ3:36.1057179175536,-114.934776711131,1437: A1437
+DTG232:H6T3WBLZ2:36.1063124632256,-114.93587644627,1448: CWB95,50%T A1448 RCW84
+DTG378:H6T3WBLZ1:36.1073208092877,-114.936725864019,1463: Forced MoveCanNotCarryFwyNo A1463 RCW24
+DTG107:H6T3WSLZ2:36.1057230549402,-114.934779175446,1437: A1437
+DTG295:H6T3WSLZ1:36.1068115864157,-114.93616652552,1452: CWS146,50%T A1452
+DTG140:H6T3MBLZ2:36.1059833747544,-114.934904046329,1439: A1439
+DTG306:H6T3MBLZ1:36.1068784945736,-114.936233273365,1452: CMB147,50%T A1452 RCM141
+DTG040:H6T3MSLZ2:36.10518636380481,-114.9345025228284,1435: Forced MoveLayup L2 A1435
+DTG257:H6T3MSLZ1:36.1065192176722,-114.935976986965,1450: CMS135,50%T A1450
+DTG029:H6T2MBLZ3:36.10523648577877,-114.9341974313064,1438: Forced MoveLayup A1438
+DTG184:H6T2MBLZ2:36.10602733826342,-114.9355443915059,1437: CMB61,50%T Forced MoveLayup A1437 RCM57
+DTG326:H6T2MBLZ1:36.1070112224313,-114.936365683204,1456: A1456 RCM144
+DTG057:H6T2MSLZ2:36.1052872010333,-114.934621484119,1435: L2 A1435
+DTG276:H6T2MSLZ1:36.1066673530039,-114.936069343356,1451: CMS153,50%T A1451
+DTG029:H6T1MBLZ3:36.10523648577877,-114.9341974313064,1438: Forced MoveLayup A1438
+DTG184:H6T1MBLZ2:36.10602733826342,-114.9355443915059,1437: CMB61,50%T Forced MoveLayup A1437 RCM57
+DTG351:H6T1MBLZ1:36.1071673201241,-114.936521406884,1459: Forced MoveBailOut A1459 RCM169
+DTG071:H6T1MSLZ2:36.1053731567345,-114.934722889138,1435: L2 A1435
+DTG290:H6T1MSLZ1:36.106775975788,-114.93613706527,1451: CMS167,50%T A1451
+End = kml
+
+Start = Generic LZs
+DTG082:H6R:36.1055465610865,-114.934653203137,0: 
+DTG117:H6R:36.1058041525362,-114.934818076551,0: 
+DTG151:H6R:36.1060693030274,-114.934945264626,0: 
+DTG366:H6R:36.1072542057873,-114.936632928039,0: 
+DTG355:H6FS:36.10719174649349,-114.9365457747269,0 :
+DTG174:H6FS:36.10624519353144,-114.9350296362389,0 :
+DTG194:H6FE:36.10607127722567,-114.9356214873499,0 :
+DTG053:H6C5:36.10534485362414,-114.9344909816935,0 36.1053679142004,-114.9344443679074,0 36.10538559208593,-114.934428196168,0 36.10540711160148,-114.9344253431046,0 36.105429398748,-114.9344320027661,0 36.10545168512734,-114.9344405646365,0 : ForcedSC
+DTG017:H6C4:36.10512366982653,-114.9342374867294,0 36.10514917166337,-114.9340789135771,0 : ForcedSC
+DTG014:H6C3:36.10511535048754,-114.93418962226,0 36.10495723215021,-114.9342817585391,0 : ForcedSC
+DTG199:H6C2:36.1064081359318,-114.9351928093268,0 36.1063207491539,-114.9351912582807,0 36.10622997018766,-114.935169795761,0 36.1061836675762,-114.9351600362975,0 36.10610189533734,-114.9351636856885,0 36.10604376382152,-114.9351709958026,0 36.10599055793116,-114.9351697705823,0 36.10593636432878,-114.9351636666844,0 36.10587773797792,-114.9351343955806,0 36.10580679802031,-114.9351234125522,0 36.10572994424026,-114.9351331622884,0 36.10564361769799,-114.9351443567679,0 36.10554543908086,-114.9351830951867,0 36.10546118329803,-114.9351609399483,0 : Forced50%T
+DTG405:H6C1:36.107542464751,-114.9368287727248,0 36.10751293395774,-114.9368019630565,0 36.10747355668527,-114.9367946458624,0 36.10743910262398,-114.9367922062074,0 36.10741154055083,-114.9367629666473,0 36.10737314841134,-114.9366922957758,0 36.10731899411584,-114.9365801780188,0 36.10731800785069,-114.9365521456251,0 36.10733179173935,-114.9365155802325,0 36.10733474418549,-114.9364863238896,0 36.10732292521245,-114.936446093485,0 36.10729633694656,-114.9364119598903,0 36.10722642161997,-114.9363510097851,0 36.10716831416409,-114.9362876096305,0 : Forced75%T
+DTG048:H6R:36.1052338049093,-114.934558490799,0:
+DTG316:H6R:36.1069440902688,-114.936298711891,0:
+DTG285:H6R:36.1067365895998,-114.936112509574,0:
+DTG244:H6R:36.106409109402,-114.935932663305,0:
+DTG194:H6R:36.1060742290761,-114.935624607766,0:
+End = Generic LZs
+
+End = Hole 6
+
+Start = Hole 7
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP83 GA483
+Green Width = 18 18,kml 18,KeyIn
+Green Depth = 30 30,kml 30,KeyIn
+Effective Green Diameter = 24
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1446 Green,36.10638356575019,-114.93047202761,1446,kml Green,,,,GPS Green,1446,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1441 TeeLoc,36.10445748161656,-114.9341835501175,1441,kml TeeLoc,,,,GPS TeeLoc,1441,KeyIn
+Tee to Pivot 1 = 270 270,KeyIn
+Altitude Pivot 1 = 1443 P1Loc,36.10599742211431,-114.932202733827,1443,kml P1Loc,,,,GPS P1Loc,1443,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 176 176,KeyIn
+Horizontal Length = 446
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1439 TeeLoc,36.1046093880167,-114.9339040822609,1439,kml TeeLoc,,,,GPS TeeLoc,1439,KeyIn
+Tee to Pivot 1 = 238 238,KeyIn
+Altitude Pivot 1 = 1443 P1Loc,36.10599742211431,-114.932202733827,1443,kml P1Loc,,,,GPS P1Loc,1443,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 176 176,KeyIn
+Horizontal Length = 414
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1441 TeeLoc,36.10482101794119,-114.9336609598109,1441,kml TeeLoc,,,,GPS TeeLoc,1441,KeyIn
+Tee to Pivot 1 = 202 202,KeyIn
+Altitude Pivot 1 = 1443 P1Loc,36.10599742211431,-114.932202733827,1443,kml P1Loc,,,,GPS P1Loc,1443,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 176 176,KeyIn
+Horizontal Length = 378
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1445 TeeLoc,36.10529703235902,-114.9334942041342,1445,kml TeeLoc,,,,GPS TeeLoc,1445,KeyIn
+Tee to Pivot 1 = 153 153,KeyIn
+Altitude Pivot 1 = 1443 P1Loc,36.10599742211431,-114.932202733827,1443,kml P1Loc,,,,GPS P1Loc,1443,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 176 176,KeyIn
+Horizontal Length = 329
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1441 TeeLoc,36.10558157608609,-114.9331683710815,1441,kml TeeLoc,,,,GPS TeeLoc,1441,KeyIn
+Tee to Pivot 1 = 108 108,KeyIn
+Altitude Pivot 1 = 1443 P1Loc,36.10599742211431,-114.932202733827,1443,kml P1Loc,,,,GPS P1Loc,1443,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 176 176,KeyIn
+Horizontal Length = 284
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG282:H7T5:36.10558157608609,-114.9331683710815,1441: A1441 RCM29 RCW29
+DTG325:H7T4:36.10529703235902,-114.9334942041342,1445: A1445 RCM66 RCW66
+DTG366:H7T3:36.10482101794119,-114.9336609598109,1441: CWB86,50%T CWS86,50%T CMB86,50%T CMS88,50%T A1441 RCM114 RCW114
+DTG400:H7T2:36.1046093880167,-114.9339040822609,1439: CMB121,50%T CMS121,50%T A1439 RCM149
+DTG433:H7T1:36.10445748161656,-114.9341835501175,1441: CMB154,50%T CMS154,50%T A1441 RCM182
+DTG176:H7P1:36.10599742211431,-114.932202733827,1443:A1443 
+DTG031:H7P:36.10620600073918,-114.9307034080787,0 :
+DTG015:H7GS:36.10628096102533,-114.9305647942987,0 :
+DTG000:H7Green:36.10638356575019,-114.93047202761,1446:D30 W18 LoPD26 A1446 BFraction>0
+DTG000:H7GnO:36.10626647772199,-114.930528082356,0 36.10626323812135,-114.9305019856379,0 36.10626594658147,-114.9304738835402,0 36.10627352065757,-114.9304464534826,0 36.10628487836653,-114.9304183572853,0 36.10629785457744,-114.9304016352233,0 36.10631569450937,-114.9303835770594,0 36.10632866689772,-114.9303782262945,0 36.10634380064977,-114.9303768892321,0 36.10635984027254,-114.930374505653,0 36.10637406773066,-114.9303722084557,0 36.1064010912278,-114.9303681965196,0 36.10644054486265,-114.930365522285,0 36.10646162246271,-114.9303661918816,0 36.10647729599557,-114.9303728807407,0 36.10648864656859,-114.9303869276044,0 36.10649513394471,-114.9304036497108,0 36.10649783828057,-114.9304176962834,0 36.10649784065829,-114.9304317431211,0 36.10649514106277,-114.9304471282629,0 36.1064897394657,-114.930464520934,0 36.10648271553196,-114.9304805769654,0 36.10646487823439,-114.9304966344119,0 36.10644379696082,-114.930516037968,0 36.10642703925787,-114.9305294202681,0 36.10641309864051,-114.9305442939938,0 36.10640109070999,-114.9305581924283,0 36.10638811614028,-114.9305789359885,0 36.10637460066336,-114.9305929883589,0 36.1063562195957,-114.9306043640656,0 36.10634216276522,-114.9306110568679,0 36.10632486213738,-114.930609050307,0 36.10631026379695,-114.9306050368183,0 36.10629728816939,-114.9305983454218,0 36.10628972028351,-114.9305836229902,0 36.10627944821446,-114.9305628789904,0 36.10626647772199,-114.930528082356,0 :GP83 GA483
+DTG021,016:H7GB:36.1065450571906,-114.9305533463554,0 36.10646132947078,-114.9306018229868,0:
+DTG022,019:H7GB:36.10635367399978,-114.9306893208268,0 36.10641565774163,-114.9306623979459,0:
+DTG042,033:H7FB:36.10604953752546,-114.9305746166812,0 36.10611824603762,-114.9304222074898,0:
+DTG181,152:H7FB:36.10575279599179,-114.9321447821053,0 36.10581675138408,-114.9318554203837,0:
+DTG003:H7T5WBLZ2:36.1063619176946,-114.930491599988,1445: A1445
+DTG133:H7T5WBLZ1:36.1060589356552,-114.931760556035,1441: A1441
+DTG072:H7T5WSLZ1:36.1061442247522,-114.931147472412,1441: A1441
+DTG082:H7T5MBLZ1:36.1061300750231,-114.931249184911,1441: A1441
+DTG035:H7T5MSLZ1:36.1062006562162,-114.930741826113,1440: A1440
+DTG051:H7T4WBLZ2:36.1061754546277,-114.930922982695,1441: A1441
+DTG179:H7T4WBLZ1:36.1059819854783,-114.93222442573,1443: A1443
+DTG116:H7T4WSLZ1:36.1060825743545,-114.931590633971,1441: A1441
+DTG126:H7T4MBLZ1:36.1060679222682,-114.931695957565,1441: A1441
+DTG075:H7T4MSLZ1:36.1061405826622,-114.931173652848,1441: A1441
+DTG095:H7T3WBLZ2:36.1061122134321,-114.931377579387,1441: A1441
+DTG225:H7T3WBLZ1:36.1057115725759,-114.932604415924,1436: A1436
+DTG167:H7T3WSLZ1:36.1060101930479,-114.932110932524,1444: A1444
+DTG011:H7T3MBLZ2:36.1063097233028,-114.930538789831,1444: A1444
+DTG179:H7T3MBLZ1:36.1059840509437,-114.932221523292,1443: A1443
+DTG121:H7T3MSLZ1:36.1060750669046,-114.931644599774,1441: A1441
+DTG042:H7T2MBLZ2:36.1061883066006,-114.930830598857,1441: A1441
+DTG211:H7T2MBLZ1:36.1057927779781,-114.932490304295,1438: A1438
+DTG161:H7T2MSLZ1:36.1060185098512,-114.932051148846,1443: A1443
+DTG071:H7T1MBLZ2:36.1061456480977,-114.931137240977,1441: A1441
+DTG241:H7T1MBLZ1:36.105616071979,-114.932738615476,1435: A1435
+DTG195:H7T1MSLZ1:36.1058882242207,-114.932356181123,1442: A1442
+DTG025:H7GS10:36.1062352187519,-114.930649379214,0:A1446
+End = kml
+
+Start = Generic LZs
+DTG038:H7R:36.1061952458672,-114.930780717326,0: 
+DTG259:H7FS:36.10551588087277,-114.932879406235,0 :
+DTG284:H7C1:36.10517945278206,-114.9329531514496,0 36.10520546076145,-114.9330226201551,0 36.1052287316519,-114.9330683686692,0 36.10525747940979,-114.9331141171687,0 36.10529444038288,-114.9331480037763,0 36.10531086619556,-114.9331886650347,0 36.10532181637915,-114.9332327096364,0 : Forced50%T
+DTG233:H7R:36.1056646487348,-114.932670354343,0:
+DTG203:H7R:36.1058390718512,-114.932425251121,0:
+DTG170:H7R:36.1060063947729,-114.932138235664,0:
+DTG124:H7R:36.1060710453597,-114.931673507845,0:
+DTG083:H7R:36.1061291234392,-114.931256025181,0:
+End = Generic LZs
+
+End = Hole 7
+
+Start = Hole 8
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP88 GA563
+Green Width = 21 21,kml 21,KeyIn
+Green Depth = 32 32,kml 32,KeyIn
+Effective Green Diameter = 27
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1409 Green,36.10555904544329,-114.9279391591873,1409,kml Green,,,,GPS Green,1409,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = >1/2 ApplyToPA_Yes  ApplyToER_No  ApplyToOB_No 
+Green Edge to PA/OB/ER = <5
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1411 TeeLoc,36.10521715540568,-114.92951728554,1411,kml TeeLoc,,,,GPS TeeLoc,1411,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 161 161,KeyIn
+Horizontal Length = 161
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1416 TeeLoc,36.10551453320678,-114.9294816799367,1416,kml TeeLoc,,,,GPS TeeLoc,1416,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 152 152,KeyIn
+Horizontal Length = 152
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1418 TeeLoc,36.10572162666877,-114.929446144539,1418,kml TeeLoc,,,,GPS TeeLoc,1418,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 149 149,KeyIn
+Horizontal Length = 149
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1418 TeeLoc,36.10575461147754,-114.9293115825089,1418,kml TeeLoc,,,,GPS TeeLoc,1418,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 137 137,KeyIn
+Horizontal Length = 137
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1415 TeeLoc,36.10563644957272,-114.9292309002724,1415,kml TeeLoc,,,,GPS TeeLoc,1415,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 127 127,KeyIn
+Horizontal Length = 127
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG127:H8T5:36.10563644957272,-114.9292309002724,1415: CWB101,50%T CWS101,50%T CMB101,50%T CMS101,50%T A1415 RCM68 RCW68
+DTG137:H8T4:36.10575461147754,-114.9293115825089,1418: CWB67,50%T CWS67,50%T CMB67,50%T CMS67,50%T A1418 RCM76 RCW76
+DTG149:H8T3:36.10572162666877,-114.929446144539,1418: CWB123,50%T CWS123,50%T CMB123,50%T CMS123,50%T A1418 RCM89 RCW89
+DTG152:H8T2:36.10551453320678,-114.9294816799367,1416: CMB137,100%T CMS137,100%T A1416 RCM95
+DTG161:H8T1:36.10521715540568,-114.92951728554,1411: CMB154,100%T CMS154,100%T A1411 RCM112
+DTG000:H8Green:36.10555904544329,-114.9279391591873,1409:D32 W21 LoPD28 SFraction1/2,E5,PA A1409 BFraction>0
+DTG000:H8GnO:36.10560376883231,-114.9281014297998,0 36.10562491611361,-114.9280855839144,0 36.10563994230267,-114.9280718066438,0 36.10564439416358,-114.9280545854704,0 36.10564717631609,-114.9280304759159,0 36.10565051500725,-114.9280098107441,0 36.10565107129253,-114.9279877678426,0 36.10564940181603,-114.9279574590866,0 36.10564439240768,-114.92792783909,0 36.10563604363662,-114.9279009748414,0 36.10562379881947,-114.9278692893614,0 36.10561211109036,-114.9278438033561,0 36.10559485859982,-114.9278286492611,0 36.10557426696346,-114.9278196948708,0 36.10555089242347,-114.9278107406582,0 36.10553085746714,-114.9278024754979,0 36.10551193545326,-114.9278017876198,0 36.10549245741598,-114.9278038550584,0 36.10547687488987,-114.9278107443164,0 36.10546240559801,-114.9278238323132,0 36.10545016213502,-114.9278403639823,0 36.10544181264757,-114.927857582548,0 36.1054373578295,-114.9278768678031,0 36.10543679845152,-114.9278995982931,0 36.10544069225259,-114.9279271519979,0 36.10544848260327,-114.9279574625996,0 36.10546128364941,-114.9279815741002,0 36.1054857747804,-114.9280098185352,0 36.10550080322242,-114.9280291073335,0 36.1055152748384,-114.9280518406605,0 36.10553531245663,-114.9280759506747,0 36.10554978380971,-114.9280931718542,0 36.1055759421815,-114.9281034996591,0 36.10560376883231,-114.9281014297998,0 :GP88 GA563
+DTG020,017:H8GB:36.10566541445296,-114.9280979673614,0 36.10569613583706,-114.9279254542542,0:
+DTG019,018:H8GB:36.10566101103442,-114.927789622318,0 36.10570162157043,-114.9278901368516,0:
+End = kml
+
+Start = Generic LZs
+DTG062:H8FS:36.1057006132416,-114.9285430416464,0 :
+DTG080:H8C3:36.10568143301144,-114.9287418736145,0 36.10556933206684,-114.9287594427212,0 : Forced50%T
+DTG036:H8C2:36.10555596906408,-114.92830928331,0 36.10560100165486,-114.9283026615691,0 : Forced50%T
+DTG030:H8C1:36.10556197775612,-114.9282419515301,0 36.10554353259291,-114.9281544407428,0 36.10552923950029,-114.92810471774,0 36.10549803530743,-114.9280517092138,0 : Forced100%T
+End = Generic LZs
+
+End = Hole 8
+
+Start = Hole 9
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP88 GA537
+Green Width = 20 20,kml 20,KeyIn
+Green Depth = 34 34,kml 34,KeyIn
+Effective Green Diameter = 27
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1413 Green,36.10923437750005,-114.9235568677705,1413,kml Green,,,,GPS Green,1413,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = 1/4_to_1/2 ApplyToPA_Yes  ApplyToER_No  ApplyToOB_No 
+Green Edge to PA/OB/ER = <5
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1416 TeeLoc,36.10606362302416,-114.9271732435392,1416,kml TeeLoc,,,,GPS TeeLoc,1416,KeyIn
+Tee to Pivot 1 = 306 306,KeyIn
+Altitude Pivot 1 = 1411 P1Loc,36.10828062294866,-114.9256972477609,1411,kml P1Loc,,,,GPS P1Loc,1411,KeyIn
+Pivot 1 to Pivot 2 = 166 166,KeyIn
+Altitude Pivot 2 = 1410 P2Loc,36.10910722925423,-114.9243580592448,1410,kml P2Loc,,,,GPS P2Loc,1410,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 552
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1414 TeeLoc,36.10631086989005,-114.9272449386998,1414,kml TeeLoc,,,,GPS TeeLoc,1414,KeyIn
+Tee to Pivot 1 = 284 284,KeyIn
+Altitude Pivot 1 = 1411 P1Loc,36.10828062294866,-114.9256972477609,1411,kml P1Loc,,,,GPS P1Loc,1411,KeyIn
+Pivot 1 to Pivot 2 = 166 166,KeyIn
+Altitude Pivot 2 = 1410 P2Loc,36.10910722925423,-114.9243580592448,1410,kml P2Loc,,,,GPS P2Loc,1410,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 530
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1414 TeeLoc,36.10668839040783,-114.9273246604737,1414,kml TeeLoc,,,,GPS TeeLoc,1414,KeyIn
+Tee to Pivot 1 = 251 251,KeyIn
+Altitude Pivot 1 = 1411 P1Loc,36.10828062294866,-114.9256972477609,1411,kml P1Loc,,,,GPS P1Loc,1411,KeyIn
+Pivot 1 to Pivot 2 = 166 166,KeyIn
+Altitude Pivot 2 = 1410 P2Loc,36.10910722925423,-114.9243580592448,1410,kml P2Loc,,,,GPS P2Loc,1410,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 497
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1413 TeeLoc,36.10684777104269,-114.9273464661701,1413,kml TeeLoc,,,,GPS TeeLoc,1413,KeyIn
+Tee to Pivot 1 = 238 238,KeyIn
+Altitude Pivot 1 = 1411 P1Loc,36.10828062294866,-114.9256972477609,1411,kml P1Loc,,,,GPS P1Loc,1411,KeyIn
+Pivot 1 to Pivot 2 = 166 166,KeyIn
+Altitude Pivot 2 = 1410 P2Loc,36.10910722925423,-114.9243580592448,1410,kml P2Loc,,,,GPS P2Loc,1410,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 484
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1417 TeeLoc,36.10729100201759,-114.9273293957152,1417,kml TeeLoc,,,,GPS TeeLoc,1417,KeyIn
+Tee to Pivot 1 = 200 200,KeyIn
+Altitude Pivot 1 = 1411 P1Loc,36.10828062294866,-114.9256972477609,1411,kml P1Loc,,,,GPS P1Loc,1411,KeyIn
+Pivot 1 to Pivot 2 = 166 166,KeyIn
+Altitude Pivot 2 = 1410 P2Loc,36.10910722925423,-114.9243580592448,1410,kml P2Loc,,,,GPS P2Loc,1410,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 80 80,KeyIn
+Horizontal Length = 446
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG440:H9T5:36.10729100201759,-114.9273293957152,1417: A1417 RCM28 RCW28
+DTG472:H9T4:36.10684777104269,-114.9273464661701,1413: CMS153,50%T A1413 RCM61 RCW61
+DTG483:H9T3:36.10668839040783,-114.9273246604737,1414: A1414 RCM77 RCW77
+DTG508:H9T2:36.10631086989005,-114.9272449386998,1414: CMB80,50%T CMS159,75%T A1414 RCM120
+DTG524:H9T1:36.10606362302416,-114.9271732435392,1416: CMB112,75%T CMS183,50%T A1416 RCM149
+DTG080:H9P2:36.10910722925423,-114.9243580592448,1410:A1410 
+DTG240:H9P1:36.10828062294866,-114.9256972477609,1411:A1411 
+DTG057:H9P:36.10919831853074,-114.9241347802987,0 :
+DTG123:H9P:36.1088672675446,-114.9247186124209,0 :
+DTG249:H9P:36.10836324592385,-114.9258493720483,0 :
+DTG307:H9P:36.10805773350617,-114.9263253242197,0 :
+DTG311:H9P:36.10794158512169,-114.9262887463867,0 :
+DTG016:H9GS:36.10924089818407,-114.9237169218937,0 :
+DTG000:H9Green:36.10923437750005,-114.9235568677705,1413:D34 W20 LoPD34 SFraction1/4,E5,PA A1413 BFraction>0
+DTG000:H9GnO:36.10924073911745,-114.9237168505563,0 36.10925943091023,-114.9237030769686,0 36.10928079229871,-114.9236755310448,0 36.10928880272756,-114.9236617582265,0 36.10929681300391,-114.9236435783041,0 36.10930304302299,-114.9236248475891,0 36.1093070479502,-114.9236099731529,0 36.10931149767993,-114.9235934459485,0 36.10931416765978,-114.9235791226121,0 36.1093137218894,-114.9235543321675,0 36.10931283116539,-114.9235322959014,0 36.10931327565597,-114.9235080554498,0 36.10931193990243,-114.9234893242121,0 36.10931193949218,-114.9234727962127,0 36.1093097128995,-114.9234562696626,0 36.10930659613437,-114.9234391924917,0 36.10930080887967,-114.9234204628967,0 36.10929146106965,-114.9234050398965,0 36.10927899816391,-114.9233978812567,0 36.1092665358269,-114.9233940276503,0 36.10925318377466,-114.9233923768636,0 36.10924116737164,-114.9233967856275,0 36.1092273707658,-114.9234000929481,0 36.10921624458948,-114.923405051998,0 36.10920422847447,-114.9234127652055,0 36.10918998737154,-114.9234265381228,0 36.10917752637796,-114.9234392088073,0 36.10916684541483,-114.923451328676,0 36.10915794482416,-114.9234656520911,0 36.1091499349748,-114.923482180035,0 36.1091459303635,-114.923500359547,0 36.10914504171904,-114.9235295565656,0 36.10914860378367,-114.923558202441,0 36.10915216497458,-114.9235747286932,0 36.10915617099823,-114.9235851951201,0 36.10915795172293,-114.9235978654782,0 36.10915795253585,-114.9236143923023,0 36.10915839889429,-114.9236413858997,0 36.10915929007061,-114.9236628705962,0 36.10916018124429,-114.9236838043351,0 36.10916418775969,-114.9236997797105,0 36.10917219961184,-114.9237130002394,0 36.10918777745937,-114.9237256693206,0 36.10920958561687,-114.9237300747649,0 36.10922961309959,-114.9237251148603,0 36.10924073911745,-114.9237168505563,0 :GP88 GA537
+DTG023,019:H9GB:36.10938545080668,-114.9234138381634,0 36.10938849362229,-114.9235433592006,0:
+DTG026,014:H9GB:36.10909277716548,-114.9237536491789,0 36.10912158316293,-114.9235715488607,0:
+DTG057,037:H9FB:36.10943250750947,-114.9240820695245,0 36.10939155325642,-114.9238737295596,0:
+DTG034,024:H9FB:36.1090457773057,-114.9238137348948,0 36.1090882355944,-114.9237198569012,0:
+DTG082,062:H9FB:36.10891537816521,-114.9242962373014,0 36.10900181500561,-114.9241178749995,0:
+DTG250,242:H9FB:36.10815261044518,-114.9257192435214,0 36.10820417150424,-114.9256591685629,0:
+DTG298,268:H9FB:36.10798972833859,-114.9261677335997,0 36.1081070948565,-114.9259038387606,0:Xing
+DTG037:H9T5WBLZ3:36.1092188658559,-114.923933137687,1411: A1411
+DTG163:H9T5WBLZ2:36.10866131546,-114.925062179872,1411: A1411
+DTG293:H9T5WBLZ1:36.1081309979128,-114.926211186949,1412: A1412
+DTG046:H9T5WSLZ2:36.1092096762863,-114.924023320171,1410: A1410
+DTG231:H9T5WSLZ1:36.108327274213,-114.925619424533,1411: A1411
+DTG076:H9T5MBLZ2:36.1091221071773,-114.924321590331,1411: A1411
+DTG241:H9T5MBLZ1:36.1082874590225,-114.925709834246,1411: A1411
+DTG191:H9T5MSLZ1:36.108523279052,-114.92529245099,1410: A1410
+DTG076:H9T4WBLZ3:36.1091247019218,-114.924315230067,1411: A1411
+DTG200:H9T4WBLZ2:36.1084776099245,-114.925368635825,1411: A1411
+DTG329:H9T4WBLZ1:36.1078281278763,-114.926419779964,1410: A1410
+DTG088:H9T4WSLZ2:36.1090621057507,-114.924425859322,1410: A1410
+DTG275:H9T4WSLZ1:36.1082274780337,-114.926060882345,1413: A1413
+DTG116:H9T4MBLZ2:36.108902317307,-114.924665948589,1410: A1410
+DTG285:H9T4MBLZ1:36.1081745316259,-114.926143366579,1413: A1413
+DTG009:H9T4MSLZ2:36.1092382747892,-114.923652529083,1412: A1412
+DTG228:H9T4MSLZ1:36.1083407495457,-114.925596945102,1411: A1411
+DTG089:H9T3WBLZ3:36.1090543150183,-114.924437565245,1410: A1410
+DTG215:H9T3WBLZ2:36.1084053331401,-114.92548920732,1411: A1411
+DTG344:H9T3WBLZ1:36.1077384202927,-114.92652338468,1410: A1410
+DTG102:H9T3WSLZ2:36.1089813749401,-114.924547160968,1410: A1410
+DTG290:H9T3WSLZ1:36.1081486978714,-114.92618361251,1413: A1413
+DTG131:H9T3MBLZ2:36.1088234114619,-114.924791772751,1409: A1409
+DTG300:H9T3MBLZ1:36.1080943702529,-114.926268248506,1412: A1412
+DTG031:H9T3MSLZ2:36.1092247109573,-114.923875776376,1412: A1412
+DTG248:H9T3MSLZ1:36.1083594901357,-114.925842456943,1412: A1412
+DTG163:H9T2MBLZ2:36.10866577457,-114.925054741224,1411: A1411
+DTG331:H9T2MBLZ1:36.1078183875086,-114.92643102927,1410: A1410
+DTG071:H9T2MSLZ2:36.1091440142346,-114.924267891533,1411: A1411
+DTG286:H9T2MSLZ1:36.1081680348203,-114.926153487833,1413: A1413
+DTG023:H9T1MBLZ3:36.1092335506427,-114.923789027505,1412: A1412
+DTG190:H9T1MBLZ2:36.1085286691851,-114.925283459217,1410: A1410
+DTG358:H9T1MBLZ1:36.1076481715776,-114.926627614356,1409: A1409
+DTG093:H9T1MSLZ2:36.1090325637118,-114.924470247554,1409: A1409
+DTG309:H9T1MSLZ1:36.1079964478518,-114.926306023939,1411: A1411
+DTG026:H9GS10:36.109230607512,-114.923817910124,0:A1413
+End = kml
+
+Start = Generic LZs
+DTG054:H9R:36.1092013508173,-114.924105022743,0: 
+DTG086:H9R:36.1090731685301,-114.924409237003,0: 
+DTG118:H9R:36.1088923607951,-114.924680908692,0: 
+DTG162:H9R:36.1086686832049,-114.925049889065,0: 
+DTG234:H9R:36.1083109743736,-114.925646615781,0: 
+DTG285:H9R:36.108174084778,-114.926144062715,0: 
+DTG341:H9R:36.1077543122069,-114.926505030855,0: 
+DTG417:H9FS:36.10728468269252,-114.9270474134518,0 :
+DTG448:H9C5:36.10685457858832,-114.9270421525577,0 36.1068339509379,-114.92694514699,0 : Forced50%T
+DTG329:H9C3:36.10759193499061,-114.9262168668404,0 36.10770450706283,-114.9263459512581,0 : Forced50%T
+DTG363:H9C2:36.10735007292533,-114.9264284920407,0 36.10742097135996,-114.9266143789932,0 : Forced50%T
+DTG440:H9C1:36.10685432403453,-114.9269270849891,0 36.10694872355084,-114.9267765677872,0 : Forced75%T
+DTG202:H9R:36.1084695226123,-114.925382127008,0:
+End = Generic LZs
+
+End = Hole 9
+
+Start = Hole 10
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP86 GA485
+Green Width = 16 16,kml 16,KeyIn
+Green Depth = 33 33,kml 33,KeyIn
+Effective Green Diameter = 22
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1459 Green,36.10887726983653,-114.9304126198568,1459,kml Green,,,,GPS Green,1459,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1461 TeeLoc,36.11060294183234,-114.9269811527516,1461,kml TeeLoc,,,,GPS TeeLoc,1461,KeyIn
+Tee to Pivot 1 = 267 267,KeyIn
+Altitude Pivot 1 = 1469 P1Loc,36.10993746211457,-114.9295724113824,1469,kml P1Loc,,,,GPS P1Loc,1469,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 153 153,KeyIn
+Horizontal Length = 420
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1461 TeeLoc,36.11058270059982,-114.9272502602214,1461,kml TeeLoc,,,,GPS TeeLoc,1461,KeyIn
+Tee to Pivot 1 = 241 241,KeyIn
+Altitude Pivot 1 = 1469 P1Loc,36.10993746211457,-114.9295724113824,1469,kml P1Loc,,,,GPS P1Loc,1469,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 153 153,KeyIn
+Horizontal Length = 394
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1461 TeeLoc,36.11059295005806,-114.9273910466855,1461,kml TeeLoc,,,,GPS TeeLoc,1461,KeyIn
+Tee to Pivot 1 = 229 229,KeyIn
+Altitude Pivot 1 = 1469 P1Loc,36.10993746211457,-114.9295724113824,1469,kml P1Loc,,,,GPS P1Loc,1469,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 153 153,KeyIn
+Horizontal Length = 382
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1463 TeeLoc,36.11055841372746,-114.9279722437973,1463,kml TeeLoc,,,,GPS TeeLoc,1463,KeyIn
+Tee to Pivot 1 = 174 174,KeyIn
+Altitude Pivot 1 = 1469 P1Loc,36.10993746211457,-114.9295724113824,1469,kml P1Loc,,,,GPS P1Loc,1469,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 153 153,KeyIn
+Horizontal Length = 327
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1468 TeeLoc,36.11055703956342,-114.9283952318862,1468,kml TeeLoc,,,,GPS TeeLoc,1468,KeyIn
+Tee to Pivot 1 = 138 138,KeyIn
+Altitude Pivot 1 = 1469 P1Loc,36.10993746211457,-114.9295724113824,1469,kml P1Loc,,,,GPS P1Loc,1469,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 153 153,KeyIn
+Horizontal Length = 291
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG285:H10T5:36.11055703956342,-114.9283952318862,1468: A1468 RCM49 RCW49
+DTG315:H10T4:36.11055841372746,-114.9279722437973,1463: A1463 RCM79 RCW79
+DTG363:H10T3:36.11059295005806,-114.9273910466855,1461: CMS84,50%T A1461 RCM133 RCW133
+DTG374:H10T2:36.11058270059982,-114.9272502602214,1461: CMB97,50%T CMS96,50%T A1461 RCM145
+DTG397:H10T1:36.11060294183234,-114.9269811527516,1461: CMB122,50%T CMS122,50%T A1461 RCM171
+DTG153:H10P1:36.10993746211457,-114.9295724113824,1469:A1469 
+DTG189:H10P:36.11003189195418,-114.9291275090539,0 :
+DTG107:H10P:36.109606945242,-114.9298005739274,0 :
+DTG042:H10P:36.10918651599477,-114.9302229921829,0 :
+DTG031:H10P:36.1091240606444,-114.9303380022441,0 :
+DTG016:H10GS:36.10901189417633,-114.9304082554032,0 :
+DTG000:H10Green:36.10887726983653,-114.9304126198568,1459:D33 W16 LoPD26 A1459 BFraction>0
+DTG000:H10GnO:36.10901142544464,-114.9304086936832,0 36.10900516454214,-114.9304306373,0 36.1089942133243,-114.9304525819274,0 36.10898169814635,-114.9304700085206,0 36.10896449035125,-114.9304861447811,0 36.10894363324839,-114.9304932463518,0 36.108905567987,-114.9305016411794,0 36.10887584423755,-114.9305087434991,0 36.10884977020124,-114.9305087445317,0 36.10883099681421,-114.9305119717492,0 36.10881118000909,-114.9305106821637,0 36.10878979818653,-114.9305016472965,0 36.10877363064813,-114.9304874483816,0 36.10875902815588,-114.9304719569299,0 36.10874859706411,-114.9304532382709,0 36.10873868701985,-114.9304300008986,0 36.10873712055527,-114.9304080542393,0 36.10874285514681,-114.9303815884079,0 36.10875172006723,-114.9303589946117,0 36.10876267220216,-114.9303435014088,0 36.10878092671066,-114.9303280081769,0 36.10879761629505,-114.9303196163235,0 36.10882056379019,-114.9303183251425,0 36.10886385185833,-114.930333173173,0 36.10889305799493,-114.930346729947,0 36.1089170484162,-114.9303493122367,0 36.1089373882002,-114.9303460846202,0 36.10895512041873,-114.9303415658835,0 36.10897545949015,-114.9303409204938,0 36.10898901745089,-114.9303473758619,0 36.10900204931269,-114.9303686772247,0 36.10901142544464,-114.9304086936832,0 :GP86 GA485
+DTG015,015:H10GB:36.10896364189556,-114.9303016362162,0 36.10885484999471,-114.9302575613273,0:Xing
+DTG024,022:H10GB:36.10870614658144,-114.9303005077056,0 36.10874811883788,-114.9302613134207,0:
+DTG163,142:H10FB:36.10977467943739,-114.9291739362844,0 36.10971272937822,-114.9294089879594,0:
+DTG012:H10T5WBLZ2:36.1089723001119,-114.930409539023,1460: A1460
+DTG140:H10T5WBLZ1:36.1098412944417,-114.92963879789,1468: A1468
+DTG077:H10T5WSLZ1:36.1094124730552,-114.929995966142,1458: A1458
+DTG087:H10T5MBLZ1:36.1094772784851,-114.929930854125,1460: A1460
+DTG038:H10T5MSLZ1:36.1091632379322,-114.930265858188,1459: A1459
+DTG043:H10T4WBLZ2:36.109195837761,-114.930213626316,1459: A1459
+DTG172:H10T4WBLZ1:36.109989533799,-114.92932707777,1468: A1468
+DTG111:H10T4WSLZ1:36.1096367506106,-114.929779998673,1466: A1466
+DTG123:H10T4MBLZ1:36.1097192001605,-114.929723082065,1467: A1467
+DTG069:H10T4MSLZ1:36.1093645872696,-114.930044078471,1458: A1458
+DTG094:H10T3WBLZ2:36.1095215887988,-114.929886334183,1462: A1462
+DTG220:H10T3WBLZ1:36.1101508367445,-114.928816554307,1464: A1464
+DTG167:H10T3WSLZ1:36.1099766203556,-114.929387918931,1468: A1468
+DTG007:H10T3MBLZ2:36.1089332522047,-114.930410804936,1459: A1459
+DTG175:H10T3MBLZ1:36.1099976412683,-114.92928887976,1467: A1467
+DTG126:H10T3MSLZ1:36.1097418235126,-114.929707464703,1467: A1467
+DTG020:H10T2MBLZ2:36.1090380158109,-114.930391894655,1460: A1460
+DTG186:H10T2MBLZ1:36.110023927857,-114.929165031572,1465: A1465
+DTG142:H10T2MSLZ1:36.1098541502513,-114.929629923262,1468: A1468
+DTG042:H10T1MBLZ2:36.1091867075379,-114.930222799734,1459: A1459
+DTG209:H10T1MBLZ1:36.1101099802648,-114.928923364503,1465: A1465
+DTG166:H10T1MSLZ1:36.1099732770693,-114.929403670688,1468: A1468
+DTG026:H10GS10:36.1090852695581,-114.930362298243,0:A1459
+End = kml
+
+Start = Generic LZs
+DTG037:H10R:36.1091596915907,-114.930272388693,0: 
+DTG128:H10R:36.1097569370142,-114.929697031545,0: 
+DTG237:H10FS:36.11021188511364,-114.9286569569,0 :
+DTG290:H10C2:36.11030191464599,-114.9280425493885,0 36.11036773166234,-114.928108324314,0 : Forced50%T
+DTG262:H10C1:36.11008880689638,-114.9282060356606,0 36.11015930462971,-114.9281990253348,0 36.11020970146302,-114.9281813672616,0 36.11026009611744,-114.9281519397158,0 : Forced100%T
+DTG214:H10R:36.1101269697944,-114.92887894915,0:
+DTG176:H10R:36.1099993158081,-114.929280990234,0:
+DTG081:H10R:36.109438961906,-114.929969351976,0:
+End = Generic LZs
+
+End = Hole 10
+
+Start = Hole 11
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP90 GA578
+Green Width = 21 21,kml 21,KeyIn
+Green Depth = 33 33,kml 33,KeyIn
+Effective Green Diameter = 27
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1498 Green,36.11022768125338,-114.933808623771,1498,kml Green,,,,GPS Green,1498,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = 1/4_to_1/2 ApplyToPA_Yes  ApplyToER_Yes  ApplyToOB_No 
+Green Edge to PA/OB/ER = <5
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1485 TeeLoc,36.10822829832147,-114.9305742180537,1485,kml TeeLoc,,,,GPS TeeLoc,1485,KeyIn
+Tee to Pivot 1 = 357 357,KeyIn
+Altitude Pivot 1 = 1499 P1Loc,36.11019057659976,-114.9332757781869,1499,kml P1Loc,,,,GPS P1Loc,1499,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 53 53,KeyIn
+Horizontal Length = 410
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1485 TeeLoc,36.10818985573748,-114.9307561504517,1485,kml TeeLoc,,,,GPS TeeLoc,1485,KeyIn
+Tee to Pivot 1 = 347 347,KeyIn
+Altitude Pivot 1 = 1499 P1Loc,36.11019057659976,-114.9332757781869,1499,kml P1Loc,,,,GPS P1Loc,1499,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 53 53,KeyIn
+Horizontal Length = 400
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1470 TeeLoc,36.10878728225605,-114.9311762177745,1470,kml TeeLoc,,,,GPS TeeLoc,1470,KeyIn
+Tee to Pivot 1 = 268 268,KeyIn
+Altitude Pivot 1 = 1499 P1Loc,36.11019057659976,-114.9332757781869,1499,kml P1Loc,,,,GPS P1Loc,1499,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 53 53,KeyIn
+Horizontal Length = 321
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1471 TeeLoc,36.10886947425952,-114.9312962527394,1471,kml TeeLoc,,,,GPS TeeLoc,1471,KeyIn
+Tee to Pivot 1 = 252 252,KeyIn
+Altitude Pivot 1 = 1499 P1Loc,36.11019057659976,-114.9332757781869,1499,kml P1Loc,,,,GPS P1Loc,1499,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 53 53,KeyIn
+Horizontal Length = 305
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1474 TeeLoc,36.10911540529899,-114.9315083731143,1474,kml TeeLoc,,,,GPS TeeLoc,1474,KeyIn
+Tee to Pivot 1 = 217 217,KeyIn
+Altitude Pivot 1 = 1499 P1Loc,36.11019057659976,-114.9332757781869,1499,kml P1Loc,,,,GPS P1Loc,1499,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 53 53,KeyIn
+Horizontal Length = 270
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG263:H11T5:36.10911540529899,-114.9315083731143,1474: A1474 RCM32 RCW32
+DTG297:H11T4:36.10886947425952,-114.9312962527394,1471: A1471 RCM64 RCW64
+DTG312:H11T3:36.10878728225605,-114.9311762177745,1470: A1470 RCM80 RCW80
+DTG389:H11T2:36.10818985573748,-114.9307561504517,1485: CMB112,75%T CMS113,75%T A1485 RCM160
+DTG400:H11T1:36.10822829832147,-114.9305742180537,1485: CMB115,75%T CMS116,75%T A1485 RCM169
+DTG053:H11P1:36.11019057659976,-114.9332757781869,1499:A1499 
+DTG034:H11P:36.11023138279987,-114.9334646988049,0 :
+DTG076:H11P:36.11006501967198,-114.9330665842683,0 :
+DTG096:H11P:36.11003076681179,-114.9328674490669,0 :
+DTG115:H11P:36.10992067119639,-114.932701864511,0 :
+DTG135:H11P:36.10972929279086,-114.932581783681,0 :
+DTG016:H11GS:36.1102414134048,-114.9336512634966,0 :
+DTG000:H11Green:36.11022768125338,-114.933808623771,1498:D33 W21 LoPD33 SFraction1/4,E5,PAER A1498 BFraction>0
+DTG000:H11GnO:36.1102403059572,-114.9336519486802,0 36.11025470175688,-114.933667029456,0 36.1102668820402,-114.9336882782781,0 36.11027573957331,-114.9337108974744,0 36.11028459582469,-114.9337465379253,0 36.11029566608877,-114.9337910861688,0 36.11030452107101,-114.9338397443595,0 36.11031060819332,-114.9338650997262,0 36.11031780173605,-114.9338945652335,0 36.11031946073869,-114.9339199196895,0 36.11031005200255,-114.9339397979336,0 36.11030119677337,-114.9339562515458,0 36.11028680340171,-114.9339658510553,0 36.11026410449485,-114.9339733976883,0 36.11024527925707,-114.9339734020676,0 36.11021814682631,-114.9339747787396,0 36.1101954428637,-114.9339713547979,0 36.11017772251025,-114.9339624444022,0 36.11016886291038,-114.9339480488044,0 36.1101533576344,-114.9339226880728,0 36.11014505188938,-114.9338959550141,0 36.11013563854485,-114.9338644235976,0 36.11012843997541,-114.933828779658,0 36.11012567164866,-114.9337965625547,0 36.11012677976819,-114.9337636598516,0 36.11013508826004,-114.9337293870957,0 36.11014782749282,-114.933696487133,0 36.11016222788444,-114.9336718151203,0 36.11017219674152,-114.9336581101497,0 36.11018880946822,-114.9336464593095,0 36.11020320705751,-114.9336382359734,0 36.11022369486757,-114.9336416651704,0 36.1102403059572,-114.9336519486802,0 :GP90 GA578
+DTG022,021:H11GB:36.11010654123245,-114.9336473476085,0 36.11008325497426,-114.9336935958555,0:
+DTG024,021:H11FB:36.11008693362734,-114.9336336853626,0 36.11009734933192,-114.9336647840014,0:
+DTG172,156:H11FB:36.1097692749961,-114.9321492313177,0 36.1098438515077,-114.9322907708928,0:
+DTG121,105:H11FB:36.10971953553429,-114.9327544936632,0 36.10981731878094,-114.932873469123,0:Xing
+DTG117:H11T5WBLZ1:36.1098985932377,-114.932688011644,1494: CWB95,50%T A1494
+DTG059:H11T5WSLZ1:36.1101545315074,-114.933215722448,1498: A1498
+DTG068:H11T5MBLZ1:36.1101054905654,-114.933134013959,1497: A1497
+DTG019:H11T5MSLZ1:36.1102394530428,-114.933614801656,1498: Forced MoveBailOut A1498
+DTG022:H11T4WBLZ2:36.1102377602512,-114.9335833165,1498: A1498
+DTG148:H11T4WBLZ1:36.1096534758902,-114.93247508496,1488: A1488
+DTG095:H11T4WSLZ1:36.1100323456259,-114.932876627789,1495: CWS72,50%T A1495
+DTG104:H11T4MBLZ1:36.1099825859628,-114.932794984742,1494: CMB81,50%T A1494
+DTG054:H11T4MSLZ1:36.1101795423878,-114.933257393777,1499: A1499
+DTG039:H11T3WBLZ2:36.1102191059807,-114.933407860769,1499: A1499
+DTG164:H11T3WBLZ1:36.1095694581644,-114.932356845046,1487: A1487
+DTG109:H11T3WSLZ1:36.1099541059599,-114.932752150623,1494: CWS87,50%T A1494
+DTG118:H11T3MBLZ1:36.1098923585982,-114.932684099705,1494: CMB96,50%T A1494
+DTG068:H11T3MSLZ1:36.1101036270096,-114.933130909036,1497: A1497
+DTG028:H11T2MBLZ2:36.1102343965106,-114.933520752455,1499: A1499
+DTG193:H11T2MBLZ1:36.1094059847612,-114.932126785484,1482: A1482
+DTG144:H11T2MSLZ1:36.1096788930174,-114.932510855019,1487: CMS123,50%T A1487
+DTG039:H11T1MBLZ2:36.1102208264346,-114.933415825961,1499: A1499
+DTG202:H11T1MBLZ1:36.1093559108483,-114.932056315412,1480: A1480
+DTG153:H11T1MSLZ1:36.1096275699722,-114.932438627016,1488: CMS132,50%T A1488
+DTG025:H11GS10:36.1102359527867,-114.933549698483,0:A1498
+End = kml
+
+Start = Generic LZs
+DTG047:H11R:36.1102025403576,-114.933331166841,0: 
+DTG102:H11R:36.1099936285894,-114.932811592927,0: 
+DTG153:H11R:36.1096280972159,-114.932439369018,0: 
+DTG233:H11FS:36.10918696880174,-114.9318185597124,0 :
+DTG033:H11C2:36.11016128108387,-114.9334816131773,0 36.11004919284128,-114.9335807438687,0 : Forced50%T
+DTG297:H11C1:36.10881812666918,-114.93134270646,0 36.10882367897219,-114.9313770698987,0 36.10882367920013,-114.9314076153079,0 36.10880825667437,-114.9314519068743,0 36.10879961966238,-114.9314816911856,0 36.10879221592188,-114.9315122405127,0 36.10879283290515,-114.9315389715431,0 : Forced75%T
+DTG197:H11R:36.1093843860179,-114.932096389117,0:
+End = Generic LZs
+
+End = Hole 11
+
+Start = Hole 12
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP85 GA491
+Green Width = 19 19,kml 19,KeyIn
+Green Depth = 35 35,kml 35,KeyIn
+Effective Green Diameter = 27
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1479 Green,36.11282704468871,-114.9265279457944,1479,kml Green,,,,GPS Green,1479,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1532 TeeLoc,36.11151853156818,-114.932198680718,1532,kml TeeLoc,,,,GPS TeeLoc,1532,KeyIn
+Tee to Pivot 1 = 323 323,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11248361518074,-114.9291352886543,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 200 200,KeyIn
+Altitude Pivot 2 = 1485 P2Loc,36.11285137626118,-114.9271496993872,1485,kml P2Loc,,,,GPS P2Loc,1485,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 61 61,KeyIn
+Horizontal Length = 584
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1528 TeeLoc,36.11156905444608,-114.9318607908644,1528,kml TeeLoc,,,,GPS TeeLoc,1528,KeyIn
+Tee to Pivot 1 = 290 290,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11248361518074,-114.9291352886543,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 200 200,KeyIn
+Altitude Pivot 2 = 1485 P2Loc,36.11285137626118,-114.9271496993872,1485,kml P2Loc,,,,GPS P2Loc,1485,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 61 61,KeyIn
+Horizontal Length = 551
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1524 TeeLoc,36.1118725676594,-114.9315724629802,1524,kml TeeLoc,,,,GPS TeeLoc,1524,KeyIn
+Tee to Pivot 1 = 251 251,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11248361518074,-114.9291352886543,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 200 200,KeyIn
+Altitude Pivot 2 = 1485 P2Loc,36.11285137626118,-114.9271496993872,1485,kml P2Loc,,,,GPS P2Loc,1485,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 61 61,KeyIn
+Horizontal Length = 512
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1525 TeeLoc,36.11216713838255,-114.9311077525545,1525,kml TeeLoc,,,,GPS TeeLoc,1525,KeyIn
+Tee to Pivot 1 = 198 198,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11248361518074,-114.9291352886543,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 200 200,KeyIn
+Altitude Pivot 2 = 1485 P2Loc,36.11285137626118,-114.9271496993872,1485,kml P2Loc,,,,GPS P2Loc,1485,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 61 61,KeyIn
+Horizontal Length = 459
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1526 TeeLoc,36.11236780124205,-114.9306953743182,1526,kml TeeLoc,,,,GPS TeeLoc,1526,KeyIn
+Tee to Pivot 1 = 154 154,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11248361518074,-114.9291352886543,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 200 200,KeyIn
+Altitude Pivot 2 = 1485 P2Loc,36.11285137626118,-114.9271496993872,1485,kml P2Loc,,,,GPS P2Loc,1485,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 61 61,KeyIn
+Horizontal Length = 415
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG413:H12T5:36.11236780124205,-114.9306953743182,1526: A1526 RCM91 RCW91
+DTG457:H12T4:36.11216713838255,-114.9311077525545,1525: CWS50,25%T CMB50,25%T CMS50,25%T A1525 RCM137 RCW137
+DTG509:H12T3:36.1118725676594,-114.9315724629802,1524: CWB101,50%T CWS101,50%T CMB101,50%T CMS102,50%T A1524 RCM193 RCW150
+DTG546:H12T2:36.11156905444608,-114.9318607908644,1528: CMB143,50%T CMS143,50%T A1528 RCM200
+DTG579:H12T1:36.11151853156818,-114.932198680718,1532: CMB175,50%T CMS175,50%T A1532 RCM200
+DTG061:H12P2:36.11285137626118,-114.9271496993872,1485:A1485 
+DTG260:H12P1:36.11248361518074,-114.9291352886543,1516:A1516 
+DTG112:H12P:36.11282353324138,-114.9276717755438,0 :
+DTG032:H12P:36.11273790695553,-114.9268316741932,0 :
+DTG166:H12P:36.11264798328949,-114.9282070538713,0 :
+DTG307:H12P:36.11255519650191,-114.9296388531828,0 :
+DTG388:H12P:36.11226177837084,-114.9304170634747,0 :
+DTG011:H12GS:36.11275144488435,-114.9265805868658,0 :
+DTG000:H12Green:36.11282704468871,-114.9265279457944,1479:D35 W19 LoPD35 A1479 BFraction>0
+DTG000:H12GnO:36.11274327665674,-114.926509972925,0 36.1127432756339,-114.9264695886237,0 36.11274943071903,-114.926447491234,0 36.11276051033126,-114.9264276792808,0 36.1127740523592,-114.9264055820116,0 36.11278697876786,-114.9263911038167,0 36.11280049320516,-114.9263757483248,0 36.11281762901747,-114.9263629121261,0 36.112833759952,-114.9263575858185,0 36.11284853232483,-114.9263598722583,0 36.11286330581848,-114.9263720607126,0 36.11287192496415,-114.9263903428605,0 36.11288054418489,-114.9264170092767,0 36.1128830078301,-114.9264383422221,0 36.11288854920424,-114.9264665337286,0 36.11288855040593,-114.9264825339721,0 36.1128922457948,-114.9265175841212,0 36.11289717259278,-114.9265518729597,0 36.11289902069593,-114.9265785429482,0 36.11289779192878,-114.9266097857623,0 36.11289409969988,-114.9266349331666,0 36.11288486652589,-114.9266600811029,0 36.11287009129655,-114.9266844652825,0 36.11285470073763,-114.926695894817,0 36.11283253934085,-114.9267050380157,0 36.11281222489265,-114.9267004653212,0 36.11279806646281,-114.9266875112955,0 36.11277898331291,-114.926651698172,0 36.11276174670004,-114.9266136003935,0 36.11275189679634,-114.9265800741323,0 36.11274327665674,-114.926509972925,0 :GP85 GA491
+DTG024,020:H12GB:36.11284051680816,-114.9267757593941,0 36.11294913342274,-114.9266659548626,0:
+DTG037,022:H12FB:36.11290750082905,-114.9268945250899,0 36.11290568600349,-114.9267287050501,0:
+DTG303,280:H12FB:36.11272827663933,-114.9296135752982,0 36.11275540876296,-114.9293784734253,0:
+DTG118,100:H12FB:36.11255817070426,-114.9276809424639,0 36.11263780696994,-114.9275173892247,0:
+DTG327,311:H12FB:36.11227238332818,-114.9297861139037,0 36.11234836217398,-114.9296338435365,0:
+DTG008:H12T5WBLZ3:36.1127672696142,-114.926569567912,1480: A1480
+DTG134:H12T5WBLZ2:36.1127510589071,-114.927892760739,1493: A1493
+DTG263:H12T5WBLZ1:36.1124893867622,-114.929175890918,1517: A1517
+DTG015:H12T5WSLZ2:36.112747649872,-114.926650972781,1481: A1481
+DTG203:H12T5WSLZ1:36.1125829428753,-114.928574356112,1506: A1506
+DTG043:H12T5MBLZ2:36.1127855821192,-114.926965295379,1483: A1483
+DTG213:H12T5MBLZ1:36.1125652654049,-114.928674185958,1508: A1508
+DTG163:H12T5MSLZ1:36.1126581692674,-114.928175995286,1496: A1496
+DTG050:H12T4WBLZ3:36.1128099678823,-114.927033642383,1484: A1484
+DTG179:H12T4WBLZ2:36.1126249708852,-114.928337011649,1500: A1500
+DTG309:H12T4WBLZ1:36.1125526213907,-114.9296573098,1526: A1526
+DTG058:H12T4WSLZ2:36.112841729176,-114.927122661096,1485: A1485
+DTG247:H12T4WSLZ1:36.1125055423175,-114.9290114597,1512: A1512
+DTG089:H12T4MBLZ2:36.1128361599969,-114.927435015019,1488: A1488
+DTG257:H12T4MBLZ1:36.1124879176682,-114.929110991249,1515: A1515
+DTG207:H12T4MSLZ1:36.1125759704866,-114.928613731231,1507: A1507
+DTG105:H12T3WBLZ3:36.1128276553564,-114.927594482995,1490: A1490
+DTG232:H12T3WBLZ2:36.1125313014204,-114.928865990512,1510: A1510
+DTG362:H12T3WBLZ1:36.1123673257951,-114.93017367545,1526: A1526 RCW43
+DTG115:H12T3WSLZ2:36.1128142535571,-114.927700070703,1491: A1491
+DTG304:H12T3WSLZ1:36.1125505940274,-114.929606475422,1526: A1526
+DTG145:H12T3MBLZ2:36.1127168787366,-114.927996981243,1494: A1494
+DTG315:H12T3MBLZ1:36.1125446721345,-114.929714284576,1526: A1526
+DTG040:H12T3MSLZ2:36.112773821138,-114.926932332383,1483: A1483
+DTG260:H12T3MSLZ1:36.1124847124938,-114.929143008097,1516: A1516
+DTG017:H12T2MBLZ3:36.1127466148687,-114.926670168939,1481: A1481
+DTG185:H12T2MBLZ2:36.1126150581204,-114.928392991931,1501: A1501
+DTG355:H12T2MBLZ1:36.112398168588,-114.930102553236,1526: A1526 RCM35
+DTG087:H12T2MSLZ2:36.1128372379736,-114.9274148022,1488: A1488
+DTG306:H12T2MSLZ1:36.1125534584419,-114.929626626175,1526: A1526
+DTG046:H12T1MBLZ3:36.1127944859128,-114.926990250416,1483: A1483
+DTG215:H12T1MBLZ2:36.1125613038204,-114.928696558185,1508: A1508
+DTG385:H12T1MBLZ1:36.1122735139204,-114.930390001779,1525: A1525 RCM67
+DTG119:H12T1MSLZ2:36.1128010764054,-114.92774024983,1492: A1492
+DTG338:H12T1MSLZ1:36.1124680218745,-114.929941474427,1526: A1526
+DTG018:H12GS10:36.1127459686764,-114.926682153837,0:A1479
+End = kml
+
+Start = Generic LZs
+DTG103:H12R:36.1128286151263,-114.927576486637,0: 
+DTG252:H12R:36.1124968695964,-114.929060437093,0: 
+DTG325:H12R:36.1125229757646,-114.929814753014,0: 
+DTG322:H12FS:36.11253429693019,-114.9297886468709,0 :
+DTG414:H12C2:36.11226444331235,-114.930686328064,0 36.11219216274432,-114.9307377796051,0 : Forced25%T
+DTG421:H12C1:36.11218931797195,-114.9307394258322,0 36.11207570148294,-114.9306648944179,0 : Forced50%T
+DTG385:H12R:36.1122748466917,-114.930386928464,0:
+DTG309:H12R:36.1125529384959,-114.92965503701,0:
+DTG209:H12R:36.1125727244217,-114.928632062709,0:
+DTG174:H12R:36.1126345251401,-114.928283055977,0:
+DTG139:H12R:36.1127360784257,-114.927938438491,0:
+DTG049:H12R:36.1128072891935,-114.927026134709,0:
+End = Generic LZs
+
+End = Hole 12
+
+Start = Hole 13
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP86 GA425
+Green Width = 13 13,kml 13,KeyIn
+Green Depth = 35 35,kml 35,KeyIn
+Effective Green Diameter = 20
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1486 Green,36.11468202495092,-114.9260462135871,1486,kml Green,,,,GPS Green,1486,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1488 TeeLoc,36.11340193113628,-114.9268602131267,1488,kml TeeLoc,,,,GPS TeeLoc,1488,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 175 175,KeyIn
+Horizontal Length = 175
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1482 TeeLoc,36.11348457785133,-114.9266325308642,1482,kml TeeLoc,,,,GPS TeeLoc,1482,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 157 157,KeyIn
+Horizontal Length = 157
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1486 TeeLoc,36.11355789826941,-114.9268125745357,1486,kml TeeLoc,,,,GPS TeeLoc,1486,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 156 156,KeyIn
+Horizontal Length = 156
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1479 TeeLoc,36.11359033640049,-114.9263950608807,1479,kml TeeLoc,,,,GPS TeeLoc,1479,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 137 137,KeyIn
+Horizontal Length = 137
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1481 TeeLoc,36.11381825142699,-114.926683444076,1481,kml TeeLoc,,,,GPS TeeLoc,1481,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 122 122,KeyIn
+Horizontal Length = 122
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG122:H13T5:36.11381825142699,-114.926683444076,1481: A1481 RCM68 RCW68
+DTG137:H13T4:36.11359033640049,-114.9263950608807,1479: CWB64,75%T CWS66,75%T CMB66,75%T CMS66,75%T A1479 RCM94 RCW94
+DTG156:H13T3:36.11355789826941,-114.9268125745357,1486: A1486 RCM102 RCW102
+DTG157:H13T2:36.11348457785133,-114.9266325308642,1482: CMB76,75%T CMS76,75%T A1482 RCM107
+DTG175:H13T1:36.11340193113628,-114.9268602131267,1488: A1488 RCM122
+DTG029:H13P:36.11457436126877,-114.9263078890113,0 :
+DTG018:H13GS:36.11461652907975,-114.9262128147097,0 :
+DTG000:H13Green:36.11468202495092,-114.9260462135871,1486:D35 W13 LoPD23 A1486 BFraction>0
+DTG000:H13GnO:36.11461606366889,-114.9262133909251,0 36.11463700860347,-114.9262110837095,0 36.11465376387356,-114.9262047464733,0 36.11467005378073,-114.9261937987725,0 36.11467796591965,-114.9261840038187,0 36.11468634318634,-114.9261684470148,0 36.1146970469976,-114.9261453998497,0 36.11470402727806,-114.9261240818622,0 36.11471333449557,-114.9261027642077,0 36.11472124528206,-114.9260785664868,0 36.11473055164385,-114.9260612827893,0 36.11474032323898,-114.9260497606876,0 36.11475428198356,-114.9260284456039,0 36.11476591287376,-114.926003675541,0 36.11477102966135,-114.9259794818231,0 36.11476963277282,-114.9259547112381,0 36.11476451388973,-114.9259328199942,0 36.11475892989292,-114.9259143844559,0 36.11475055449404,-114.9258994034056,0 36.11473659529214,-114.9258855712043,0 36.11472123921864,-114.9258757701357,0 36.11470727756704,-114.9258711570817,0 36.11469564247113,-114.9258717301225,0 36.11468121463716,-114.925880369519,0 36.11466911362753,-114.9258930436588,0 36.11465840906364,-114.9259114818695,0 36.11464863549411,-114.9259402906584,0 36.114640258579,-114.9259765890903,0 36.11463281252194,-114.9260146159696,0 36.11462862404888,-114.9260376626907,0 36.11461978071101,-114.9260618619796,0 36.11461233328514,-114.9260768429626,0 36.1146044205677,-114.9260998909371,0 36.11459697327406,-114.9261194819329,0 36.11459231877178,-114.9261321585136,0 36.1145890610597,-114.9261488682342,0 36.11458952729943,-114.9261621202417,0 36.11459232138952,-114.9261794047395,0 36.11459744313293,-114.9261955355568,0 36.11461606366889,-114.9262133909251,0 :GP86 GA425
+DTG020,014:H13GB:36.11471919259434,-114.9262475419577,0 36.11479233183523,-114.926098310111,0:
+DTG020,017:H13GB:36.11453928452541,-114.9261406434281,0 36.1145759207062,-114.9259353338614,0:Xing
+DTG057,048:H13FB:36.11427212878105,-114.9263346208128,0 36.11432659005005,-114.9262637418276,0:Xing
+DTG013:H13T4WBLZ1:36.1146349217769,-114.926166029409,1485: Forced MoveBailOut A1485
+DTG007:H13T3WBLZ1:36.1146550728674,-114.926114771304,1486: A1486
+DTG028:H13GS10:36.114576952754,-114.926302046079,0:A1486
+End = kml
+
+Start = Generic LZs
+DTG060:H13FS:36.11435987213245,-114.9265024788644,0 :
+DTG011:H13C3:36.11461883163558,-114.9259605480281,0 36.11456245405763,-114.9261573877207,0 : ForcedSC
+DTG096:H13C2:36.11395906339699,-114.9264511239615,0 36.11397709946525,-114.9264866904487,0 : Forced50%T
+DTG074:H13C1:36.11407708190074,-114.9261338470826,0 36.11403578954358,-114.9262546704147,0 36.1140188979471,-114.9263174022137,0 36.11400012955063,-114.9263685149738,0 36.11398042267766,-114.9264033630207,0 36.11396071709581,-114.9264474999753,0 : Forced75%T
+End = Generic LZs
+
+End = Hole 13
+
+Start = Hole 14
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP74 GA365
+Green Width = 14 14,kml 14,KeyIn
+Green Depth = 29 29,kml 29,KeyIn
+Effective Green Diameter = 19
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1545 Green,36.1155697621495,-114.9319563488733,1545,kml Green,,,,GPS Green,1545,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1506 TeeLoc,36.11516114409766,-114.9266817132038,1506,kml TeeLoc,,,,GPS TeeLoc,1506,KeyIn
+Tee to Pivot 1 = 290 290,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11531508288859,-114.9296274276508,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 153 153,KeyIn
+Altitude Pivot 2 = 1533 P2Loc,36.11542560743703,-114.9311771741607,1533,kml P2Loc,,,,GPS P2Loc,1533,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 79 79,KeyIn
+Horizontal Length = 522
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1506 TeeLoc,36.11519817129074,-114.9268162160025,1506,kml TeeLoc,,,,GPS TeeLoc,1506,KeyIn
+Tee to Pivot 1 = 277 277,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11531508288859,-114.9296274276508,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 153 153,KeyIn
+Altitude Pivot 2 = 1533 P2Loc,36.11542560743703,-114.9311771741607,1533,kml P2Loc,,,,GPS P2Loc,1533,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 79 79,KeyIn
+Horizontal Length = 509
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1505 TeeLoc,36.11520385054872,-114.9270348875152,1505,kml TeeLoc,,,,GPS TeeLoc,1505,KeyIn
+Tee to Pivot 1 = 255 255,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11531508288859,-114.9296274276508,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 153 153,KeyIn
+Altitude Pivot 2 = 1533 P2Loc,36.11542560743703,-114.9311771741607,1533,kml P2Loc,,,,GPS P2Loc,1533,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 79 79,KeyIn
+Horizontal Length = 487
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1503 TeeLoc,36.11520171342756,-114.9271395661446,1503,kml TeeLoc,,,,GPS TeeLoc,1503,KeyIn
+Tee to Pivot 1 = 245 245,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11531508288859,-114.9296274276508,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 153 153,KeyIn
+Altitude Pivot 2 = 1533 P2Loc,36.11542560743703,-114.9311771741607,1533,kml P2Loc,,,,GPS P2Loc,1533,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 79 79,KeyIn
+Horizontal Length = 477
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1501 TeeLoc,36.11519850970796,-114.9274045953241,1501,kml TeeLoc,,,,GPS TeeLoc,1501,KeyIn
+Tee to Pivot 1 = 219 219,KeyIn
+Altitude Pivot 1 = 1516 P1Loc,36.11531508288859,-114.9296274276508,1516,kml P1Loc,,,,GPS P1Loc,1516,KeyIn
+Pivot 1 to Pivot 2 = 153 153,KeyIn
+Altitude Pivot 2 = 1533 P2Loc,36.11542560743703,-114.9311771741607,1533,kml P2Loc,,,,GPS P2Loc,1533,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 79 79,KeyIn
+Horizontal Length = 451
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG449:H14T5:36.11519850970796,-114.9274045953241,1501: A1501 RCM79 RCW79
+DTG475:H14T4:36.11520171342756,-114.9271395661446,1503: CWB57,50%T CWS57,50%T CMB57,50%T A1503 RCM105 RCW105
+DTG486:H14T3:36.11520385054872,-114.9270348875152,1505: CWB67,50%T CWS67,50%T CMB67,50%T A1505 RCM115 RCW115
+DTG507:H14T2:36.11519817129074,-114.9268162160025,1506: CMB88,50%T CMS88,50%T A1506 RCM136
+DTG521:H14T1:36.11516114409766,-114.9266817132038,1506: CMB102,50%T CMS102,50%T A1506 RCM150
+DTG079:H14P2:36.11542560743703,-114.9311771741607,1533:A1533 
+DTG231:H14P1:36.11531508288859,-114.9296274276508,1516:A1516 
+DTG298:H14P:36.11541587909227,-114.9289281473686,0 :
+DTG049:H14P:36.11540377152884,-114.931501280572,0 :
+DTG168:H14P:36.11533048745476,-114.9302738007335,0 :
+DTG034,014:H14LQ:36.11543840404696,-114.9316545813425,0 36.11549140083317,-114.9318495200528,0:LSQ<40,PAER
+DTG014:H14GS:36.11549147768599,-114.9318473110122,0 :
+DTG000:H14Green:36.1155697621495,-114.9319563488733,1545:D29 W14 LoPD28 A1545 BFraction>0
+DTG000:H14GnO:36.11549118408428,-114.9318462282415,0 36.11550073849518,-114.9318338813964,0 36.11551569478478,-114.931826164176,0 36.11553231390497,-114.931822563017,0 36.11554727122268,-114.9318241044238,0 36.11556389055284,-114.9318359352511,0 36.11557760055693,-114.9318621699288,0 36.11559047881586,-114.9318878889439,0 36.11560252607118,-114.931903834301,0 36.11561623358617,-114.9319254373451,0 36.11562869592562,-114.9319388090594,0 36.1156407428407,-114.9319547517728,0 36.11565154349086,-114.93196863719,0 36.11565985058827,-114.9319845795881,0 36.11566400199597,-114.93200309267,0 36.1156652445577,-114.9320200620004,0 36.11566357834105,-114.9320360014439,0 36.11565651136272,-114.9320509105555,0 36.11564736819368,-114.9320637613061,0 36.11563781157523,-114.9320719843146,0 36.11562534856427,-114.932078149878,0 36.11561081155586,-114.9320812322861,0 36.11559461413485,-114.9320848287676,0 36.11557966351018,-114.9320843134836,0 36.1155651288595,-114.9320735189689,0 36.11554976303429,-114.9320586118408,0 36.11553564195601,-114.9320370209689,0 36.11552235008066,-114.9320143997828,0 36.11550739577667,-114.9319907479769,0 36.11549659410159,-114.9319727502573,0 36.11548745378843,-114.931954752002,0 36.11548288072805,-114.9319285227808,0 36.11548080191778,-114.9319058935802,0 36.11548287706665,-114.9318776055583,0 36.11549118408428,-114.9318462282415,0 :GP74 GA365
+DTG021,020:H14GB:36.11551751501179,-114.9317487707832,0 36.11559681532611,-114.9317575732624,0:Xing
+DTG026,015:H14FB:36.11553881916362,-114.931698963123,0 36.1155542035833,-114.931802975652,0:
+DTG086,073:H14FB:36.1152470725762,-114.9311821236022,0 36.11527007389247,-114.9313110798963,0:
+DTG285,267:H14FB:36.11517014202894,-114.9290948181397,0 36.11520127703207,-114.9292741161002,0:
+DTG044:H14T5WBLZ3:36.1154153576903,-114.931546991896,1540: A1540
+DTG172:H14T5WBLZ2:36.1153293937863,-114.930227910582,1521: A1521
+DTG300:H14T5WBLZ1:36.1154122478363,-114.928908499332,1505: A1505
+DTG052:H14T5WSLZ2:36.1154060064316,-114.931468108317,1539: A1539
+DTG240:H14T5WSLZ1:36.1153282134454,-114.92953633355,1513: A1513
+DTG080:H14T5MBLZ2:36.1154238430796,-114.931160417706,1532: A1532
+DTG249:H14T5MBLZ1:36.1153431496344,-114.929432712759,1513: A1513
+DTG200:H14T5MSLZ1:36.1153226499014,-114.929944938272,1517: CMS171,50%T A1517
+DTG068:H14T4WBLZ3:36.1154177550488,-114.931293725731,1535: A1535
+DTG197:H14T4WBLZ2:36.115323377397,-114.929975463872,1517: A1517
+DTG325:H14T4WBLZ1:36.1153650415091,-114.928653074852,1503: A1503
+DTG076:H14T4WSLZ2:36.115424036014,-114.931200498507,1533: A1533
+DTG265:H14T4WSLZ1:36.1153669550884,-114.929267560858,1511: A1511
+DTG107:H14T4MBLZ2:36.1153957621612,-114.930893727628,1528: A1528
+DTG275:H14T4MBLZ1:36.1153819923927,-114.929163238572,1510: A1510
+DTG007:H14T4MSLZ2:36.1155322869058,-114.931904151793,1544: A1544
+DTG226:H14T4MSLZ1:36.1153163497888,-114.929680586579,1516: A1516
+DTG077:H14T3WBLZ3:36.115424616952,-114.93119187575,1533: A1533
+DTG207:H14T3WBLZ2:36.1153209766613,-114.929874729393,1516: A1516
+DTG336:H14T3WBLZ1:36.1153462983598,-114.928551659227,1502: A1502
+DTG087:H14T3WSLZ2:36.1154169450796,-114.931094906025,1532: A1532
+DTG276:H14T3WSLZ1:36.1153822812939,-114.929161234301,1510: A1510
+DTG117:H14T3MBLZ2:36.1153845489254,-114.930787233294,1527: A1527
+DTG286:H14T3MBLZ1:36.1153973474884,-114.929056711588,1508: A1508
+DTG018:H14T3MSLZ2:36.1154811379664,-114.931806517323,1543: A1543
+DTG236:H14T3MSLZ1:36.1153225509831,-114.929575617255,1514: A1514
+DTG139:H14T2MBLZ2:36.1153613465618,-114.930566875822,1525: A1525
+DTG307:H14T2MBLZ1:36.1153990249296,-114.928836952692,1504: A1504
+DTG040:H14T2MSLZ2:36.1154266821393,-114.931591670676,1541: A1541
+DTG257:H14T2MSLZ1:36.1153545178943,-114.929353844709,1512: A1512
+DTG152:H14T1MBLZ2:36.1153470297574,-114.930430906279,1524: A1524
+DTG321:H14T1MBLZ1:36.1153738262142,-114.928700607224,1504: A1504
+DTG053:H14T1MSLZ2:36.1154070862928,-114.931452080133,1539: A1539
+DTG271:H14T1MSLZ1:36.1153748420895,-114.92921284427,1510: A1510
+DTG024:H14GS10:36.115466859315,-114.931750183216,0:A1545
+End = kml
+
+Start = Generic LZs
+DTG043:H14R:36.1154187714244,-114.931560460231,0: 
+DTG154:H14R:36.1153451953264,-114.930413484322,0: 
+DTG371:H14FS:36.11528117902859,-114.9281993108808,0 :
+DTG428:H14C2:36.11523101333717,-114.9276151628864,0 36.11528588292919,-114.9276071651524,0 : Forced50%T
+DTG039:H14C1:36.1155732993797,-114.9315628217097,0 36.115516053527,-114.9315688598452,0 : Forced50%T
+DTG328:H14R:36.1153603147325,-114.92862749916,0:
+DTG296:H14R:36.1154128167402,-114.928949392637,0:
+DTG266:H14R:36.1153680370634,-114.929260054586,0:
+DTG237:H14R:36.1153243841011,-114.929562899879,0:
+DTG202:H14R:36.1153221274717,-114.929923017208,0:
+DTG112:H14R:36.11538991229,-114.930838170236,0:
+DTG077:H14R:36.1154245139066,-114.931193405233,0:
+End = Generic LZs
+
+End = Hole 14
+
+Start = Hole 15
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP75 GA356
+Green Width = 15 15,kml 15,KeyIn
+Green Depth = 30 30,kml 30,KeyIn
+Effective Green Diameter = 23
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1481 Green,36.11588635935562,-114.9271464007048,1481,kml Green,,,,GPS Green,1481,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1571 TeeLoc,36.11605087466012,-114.9316902842812,1571,kml TeeLoc,,,,GPS TeeLoc,1571,KeyIn
+Tee to Pivot 1 = 310 310,KeyIn
+Altitude Pivot 1 = 1500 P1Loc,36.11607698214318,-114.9285374238905,1500,kml P1Loc,,,,GPS P1Loc,1500,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 139 139,KeyIn
+Horizontal Length = 449
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1568 TeeLoc,36.11613341244601,-114.9314788076641,1568,kml TeeLoc,,,,GPS TeeLoc,1568,KeyIn
+Tee to Pivot 1 = 289 289,KeyIn
+Altitude Pivot 1 = 1500 P1Loc,36.11607698214318,-114.9285374238905,1500,kml P1Loc,,,,GPS P1Loc,1500,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 139 139,KeyIn
+Horizontal Length = 428
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1550 TeeLoc,36.11607811260711,-114.9310777417943,1550,kml TeeLoc,,,,GPS TeeLoc,1550,KeyIn
+Tee to Pivot 1 = 250 250,KeyIn
+Altitude Pivot 1 = 1500 P1Loc,36.11607698214318,-114.9285374238905,1500,kml P1Loc,,,,GPS P1Loc,1500,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 139 139,KeyIn
+Horizontal Length = 389
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1546 TeeLoc,36.11593008469441,-114.930791505927,1546,kml TeeLoc,,,,GPS TeeLoc,1546,KeyIn
+Tee to Pivot 1 = 222 222,KeyIn
+Altitude Pivot 1 = 1500 P1Loc,36.11607698214318,-114.9285374238905,1500,kml P1Loc,,,,GPS P1Loc,1500,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 139 139,KeyIn
+Horizontal Length = 361
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1542 TeeLoc,36.11627936936419,-114.9304028946715,1542,kml TeeLoc,,,,GPS TeeLoc,1542,KeyIn
+Tee to Pivot 1 = 185 185,KeyIn
+Altitude Pivot 1 = 1500 P1Loc,36.11607698214318,-114.9285374238905,1500,kml P1Loc,,,,GPS P1Loc,1500,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 139 139,KeyIn
+Horizontal Length = 324
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG323:H15T5:36.11627936936419,-114.9304028946715,1542: A1542 RCM30 RCW30
+DTG358:H15T4:36.11593008469441,-114.930791505927,1546: A1546 RCM59 RCW59
+DTG387:H15T3:36.11607811260711,-114.9310777417943,1550: A1550 RCM84 RCW84
+DTG427:H15T2:36.11613341244601,-114.9314788076641,1568: CMS79,50%T A1568 RCM124
+DTG447:H15T1:36.11605087466012,-114.9316902842812,1571: A1571 RCM144
+DTG139:H15P1:36.11607698214318,-114.9285374238905,1500:A1500 
+DTG100:H15P:36.11610080509842,-114.9281339117255,0 :
+DTG163:H15P:36.11608824484379,-114.9287906381921,0 :
+DTG189:H15P:36.11605318034791,-114.9290563697247,0 :
+DTG026:H15P:36.11601646097604,-114.9273516765094,0 :
+DTG245:H15P:36.11600126296017,-114.9296402618098,0 :
+DTG048:H15P:36.11599259546595,-114.9276212032418,0 :
+DTG015:H15GS:36.11597292617749,-114.9272508438377,0 :
+DTG000:H15Green:36.11588635935562,-114.9271464007048,1481:D30 W15 LoPD29 A1481 BFraction>0
+DTG000:H15GnO:36.11597221989173,-114.9272511920572,0 36.11596050292705,-114.927266217163,0 36.11594669289589,-114.9272776159641,0 36.11593078964413,-114.9272827975968,0 36.11591237505001,-114.9272822803547,0 36.11589144902267,-114.9272739917285,0 36.11587261547548,-114.9272605225324,0 36.11585587414893,-114.927242908871,0 36.11583955082579,-114.9272159693114,0 36.11582992402667,-114.9271900653107,0 36.11582322731676,-114.9271548357872,0 36.11582155324136,-114.9271424020358,0 36.11581736766438,-114.9271289319836,0 36.11581318196267,-114.9271087268555,0 36.11580690300322,-114.9270895573319,0 36.11580397314366,-114.9270703885544,0 36.11580313622004,-114.92705173839,0 36.11580606652572,-114.9270372337814,0 36.1158136008059,-114.9270211760013,0 36.11582657598665,-114.9270108187667,0 36.11584038737215,-114.9270082321977,0 36.11585880148429,-114.9270082343413,0 36.11587462439518,-114.9270096913203,0 36.11589032100088,-114.927019406709,0 36.1159073257412,-114.927043154755,0 36.11592563901939,-114.9270911899571,0 36.11594613350075,-114.9271586557141,0 36.11595572761423,-114.9271899611211,0 36.11596510269712,-114.9272221798353,0 36.11597221989173,-114.9272511920572,0 :GP75 GA356
+DTG023,015:H15GB:36.11591687754741,-114.9273816308347,0 36.11580296555548,-114.9272641300297,0:Xing
+DTG015,013:H15GB:36.11576834235989,-114.9271092958542,0 36.115781744816,-114.9271894778197,0:
+DTG161,143:H15FB:36.1162689699912,-114.9287147425761,0 36.11623933076816,-114.9285312853991,0:
+DTG031,017:H15FB:36.11589677688346,-114.9274576645586,0 36.11589119019265,-114.9273235679463,0:
+DTG044:H15T5WBLZ2:36.1159964889914,-114.927577231452,1481: A1481
+DTG173:H15T5WBLZ1:36.1160741925105,-114.928897131896,1508: A1508
+DTG114:H15T5WSLZ1:36.116092317563,-114.928277673226,1495: A1495
+DTG124:H15T5MBLZ1:36.1160862156484,-114.928381027186,1497: A1497
+DTG074:H15T5MSLZ1:36.1160460182156,-114.927874325781,1489: A1489
+DTG081:H15T4WBLZ2:36.1160613590675,-114.927947012332,1491: A1491
+DTG209:H15T4WBLZ1:36.1160341875351,-114.929269973559,1513: A1513
+DTG151:H15T4WSLZ1:36.1160825248707,-114.928662038575,1503: A1503
+DTG161:H15T4MBLZ1:36.1160870955865,-114.92876479995,1505: A1505
+DTG112:H15T4MSLZ1:36.116093678206,-114.928254626714,1495: A1495
+DTG110:H15T3WBLZ2:36.1160949009866,-114.928233915312,1494: A1494
+DTG237:H15T3WBLZ1:36.1160090137357,-114.929553092237,1516: A1516
+DTG178:H15T3WSLZ1:36.1160685318065,-114.928940030775,1508: A1508
+DTG021:H15T3MBLZ2:36.1159996333879,-114.927312701466,1479: A1479
+DTG187:H15T3MBLZ1:36.1160550892914,-114.929041903055,1509: A1509
+DTG138:H15T3MSLZ1:36.1160772545853,-114.928532809279,1500: A1500
+DTG058:H15T2MBLZ2:36.1160128420645,-114.92771713373,1483: A1483
+DTG227:H15T2MBLZ1:36.1160183796847,-114.929447757518,1515: A1515
+DTG177:H15T2MSLZ1:36.1160691813954,-114.928935107953,1508: A1508
+DTG079:H15T1MBLZ2:36.116056869062,-114.927925738219,1490: A1490
+DTG247:H15T1MBLZ1:36.1160032951991,-114.929655116278,1518: A1518
+DTG197:H15T1MSLZ1:36.1160452719242,-114.929145312297,1510: A1510
+DTG024:H15GS10:36.1160116884578,-114.927340622691,0:A1481
+End = kml
+
+Start = Generic LZs
+DTG034:H15R:36.1160069818791,-114.927458729324,0: 
+DTG073:H15R:36.1160437563954,-114.927863609042,0: 
+DTG187:H15R:36.1160555348125,-114.929038526733,0: 
+DTG303:H15FS:36.11608066638911,-114.9302206540276,0 :
+DTG357:H15C1:36.11610086240855,-114.9307721428929,0 36.11620527422376,-114.9307715715323,0 : Forced50%T
+DTG237:H15R:36.1160089104689,-114.929554253634,0:
+DTG149:H15R:36.1160817165415,-114.928643865269,0:
+DTG117:H15R:36.1160903847768,-114.928310410674,0:
+End = Generic LZs
+
+End = Hole 15
+
+Start = Hole 16
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP92 GA557
+Green Width = 20 20,kml 20,KeyIn
+Green Depth = 35 35,kml 35,KeyIn
+Effective Green Diameter = 28
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1410 Green,36.11598452793196,-114.9218091480254,1410,kml Green,,,,GPS Green,1410,KeyIn
+Green Bordered by Bunkers = >1/4_to_1/2
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1477 TeeLoc,36.11541801509603,-114.9259031087477,1477,kml TeeLoc,,,,GPS TeeLoc,1477,KeyIn
+Tee to Pivot 1 = 271 271,KeyIn
+Altitude Pivot 1 = 1432 P1Loc,36.11650040153103,-114.9234945015845,1432,kml P1Loc,,,,GPS P1Loc,1432,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 177 177,KeyIn
+Horizontal Length = 448
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1469 TeeLoc,36.11593757737558,-114.9257829732923,1469,kml TeeLoc,,,,GPS TeeLoc,1469,KeyIn
+Tee to Pivot 1 = 235 235,KeyIn
+Altitude Pivot 1 = 1432 P1Loc,36.11650040153103,-114.9234945015845,1432,kml P1Loc,,,,GPS P1Loc,1432,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 177 177,KeyIn
+Horizontal Length = 412
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1463 TeeLoc,36.1159748580999,-114.9255215721154,1463,kml TeeLoc,,,,GPS TeeLoc,1463,KeyIn
+Tee to Pivot 1 = 209 209,KeyIn
+Altitude Pivot 1 = 1432 P1Loc,36.11650040153103,-114.9234945015845,1432,kml P1Loc,,,,GPS P1Loc,1432,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 177 177,KeyIn
+Horizontal Length = 386
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1458 TeeLoc,36.11621909393889,-114.9251877621089,1458,kml TeeLoc,,,,GPS TeeLoc,1458,KeyIn
+Tee to Pivot 1 = 170 170,KeyIn
+Altitude Pivot 1 = 1432 P1Loc,36.11650040153103,-114.9234945015845,1432,kml P1Loc,,,,GPS P1Loc,1432,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 177 177,KeyIn
+Horizontal Length = 347
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1451 TeeLoc,36.11636149708065,-114.9247625968972,1451,kml TeeLoc,,,,GPS TeeLoc,1451,KeyIn
+Tee to Pivot 1 = 126 126,KeyIn
+Altitude Pivot 1 = 1432 P1Loc,36.11650040153103,-114.9234945015845,1432,kml P1Loc,,,,GPS P1Loc,1432,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 177 177,KeyIn
+Horizontal Length = 303
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG294:H16T5:36.11636149708065,-114.9247625968972,1451: CWS162,50%T CMB161,50%T CMS155,50%T A1451 RCM146 RCW23
+DTG333:H16T4:36.11621909393889,-114.9251877621089,1458: CWS184,50%T CMS198,50%T A1458 RCM50 RCW50
+DTG365:H16T3:36.1159748580999,-114.9255215721154,1463: CMS215,50%T A1463 RCM87 RCW87
+DTG390:H16T2:36.11593757737558,-114.9257829732923,1469: A1469 RCM113
+DTG408:H16T1:36.11541801509603,-114.9259031087477,1477: CMB143,100%T CMS166,100%T A1477 RCM152
+DTG177:H16P1:36.11650040153103,-114.9234945015845,1432:LayupC1 A1432 
+DTG226:H16P:36.1163065730945,-114.9240731901562,0 :
+DTG126:H16P:36.11628305504134,-114.9230361733437,0 :RoughEnd
+DTG078:H16P:36.11623982517906,-114.9225426138324,0 :L2
+DTG028:H16P:36.11604494153516,-114.9220852218063,0 :L2 LayupC3
+DTG154,127:H16LQ:36.11609452674637,-114.9233753700443,0 36.11614894973577,-114.9230828323215,0:LSQ<40,PAER
+DTG000:H16Green:36.11598452793196,-114.9218091480254,1410:D35 W20 LoPD23 L2 A1410 BFraction>1/4
+DTG000:H16GnO:36.11600435605067,-114.9219065401028,0 36.11602340306463,-114.9219151829791,0 36.11605641774572,-114.9219222522935,0 36.11608562277947,-114.9219198912404,0 36.1161084789774,-114.9219136011202,0 36.11612308158469,-114.9218994523133,0 36.1161287947102,-114.921880589003,0 36.11612371371562,-114.9218593697111,0 36.11610974338499,-114.9218350084954,0 36.11608942437164,-114.9218153645575,0 36.11607482051915,-114.9217870722673,0 36.11605323329099,-114.9217619233622,0 36.1160265663061,-114.9217320588188,0 36.11599989907751,-114.921708482111,0 36.1159732323706,-114.9216943375572,0 36.11594783605258,-114.9216872669856,0 36.11592942353456,-114.9216833383356,0 36.11590847247006,-114.9216864859531,0 36.11589133173241,-114.9216943501008,0 36.11587609608156,-114.9217029998493,0 36.1158595914897,-114.9217147934001,0 36.11584943466292,-114.9217305129153,0 36.11584689633138,-114.9217501605336,0 36.1158468970814,-114.9217674502946,0 36.11584880260348,-114.9217878834971,0 36.11585515403939,-114.9218208911542,0 36.11586340887423,-114.9218483965312,0 36.11587229805756,-114.9218672571155,0 36.11588182213831,-114.9218821881287,0 36.11589642599162,-114.9218986913576,0 36.11591610788189,-114.9219073347799,0 36.11594467708089,-114.9219034019914,0 36.1159745163181,-114.9219010416529,0 36.11600435605067,-114.9219065401028,0 :GP92 GA557
+DTG029,021:H16GB:36.11617201698014,-114.9219881077629,0 36.1161577954049,-114.9218104411585,0:
+DTG016,015:H16GB:36.11602423264309,-114.9219670069868,0 36.11596099831104,-114.9219555785316,0:
+DTG020,020:H16GB:36.11584234682706,-114.921902817515,0 36.11582457988887,-114.9218438942638,0:
+DTG047:H16T5WBLZ2:36.116118677439,-114.922258280016,1412: L2 A1412
+DTG177:H16T5WBLZ1:36.11650040153103,-114.9234945015845,1432: CWB56,50%T Forced MoveLayup A1432 RCW52
+DTG086:H16T5WSLZ1:36.1162242092575,-114.922631543943,1417: L2 A1417
+DTG095:H16T5MBLZ1:36.1162059208125,-114.922735693636,1420: L2 A1420
+DTG045:H16T5MSLZ1:36.1161095084062,-114.92223676029,1411: L2 A1411
+DTG063:H16T4WBLZ2:36.1161791777097,-114.922400274186,1414: L2 A1414
+DTG192:H16T4WBLZ1:36.1164366841112,-114.92368473447,1433: CWB67,50%T A1433 RCW66
+DTG124:H16T4WSLZ1:36.116150444116,-114.923051624319,1428: L2 A1428
+DTG028:H16T4MBLZ2:36.11604494153516,-114.9220852218063,1410: Forced MoveLayup L2 A1410
+DTG177:H16T4MBLZ1:36.11650040153103,-114.9234945015845,1432: CMB56,50%T Forced MoveLayup A1432 RCM52
+DTG087:H16T4MSLZ1:36.116222235433,-114.92264278455,1417: L2 A1417
+DTG095:H16T3WBLZ2:36.1162057810728,-114.922736489431,1420: L2 A1420
+DTG224:H16T3WBLZ1:36.1163132808234,-114.924053163755,1438: CWB91,50%T A1438 RCW100
+DTG028:H16T3WSLZ2:36.11604494153516,-114.9220852218063,1410: Forced MoveLayup L2 A1410
+DTG177:H16T3WSLZ1:36.11650040153103,-114.9234945015845,1432: CWS56,50%T Forced MoveLayup A1432
+DTG028:H16T3MBLZ2:36.11604494153516,-114.9220852218063,1410: Forced MoveLayup L2 A1410
+DTG184:H16T3MBLZ1:36.1164715507369,-114.923580637681,1432: CMB59,50%T A1432 RCM58
+DTG118:H16T3MSLZ1:36.116161763039,-114.92298716491,1425: L2 A1425
+DTG034:H16T2MBLZ2:36.1160686889464,-114.922140956994,1410: L2 A1410
+DTG204:H16T2MBLZ1:36.1163895653469,-114.923825410889,1433: CMB72,50%T A1433 RCM79
+DTG177:H16T2MSLZ1:36.11650040153103,-114.9234945015845,1432: CMS56,50%T Forced MoveLayup A1432
+DTG068:H16T1MBLZ2:36.1161988585207,-114.922446465061,1415: L2 A1415
+DTG235:H16T1MBLZ1:36.1162859480613,-114.924173730615,1440: CMB102,50%T A1440 RCM112
+DTG193:H16T1MSLZ1:36.1164345738456,-114.923691034817,1433: CMS65,50%T A1433
+End = kml
+
+Start = Generic LZs
+DTG037:H16R:36.1160797477182,-114.922166911938,0: L2 
+DTG082:H16R:36.1162322884615,-114.922585534202,0: L2 
+DTG125:H16R:36.1161480079008,-114.923065498165,0: L2 
+DTG221:H16R:36.1163246697964,-114.924019161167,0: 
+DTG283:H16FS:36.11618242991359,-114.9246783485731,0 :
+DTG148:H16FS:36.11610486435669,-114.9233111935686,0 :L2
+DTG170:H16FE:36.1165332153004,-114.923403768124,0 :
+DTG020:H16C3:36.11612737873695,-114.9219098665811,0 36.11608879836168,-114.9219324459794,0 36.1160453075982,-114.921930713012,0 36.11600602534292,-114.9219159549396,0 36.11597095274048,-114.9219098803959,0 36.11593237376033,-114.9219176993863,0 36.11590361485995,-114.9219168334681,0 36.11588116685184,-114.9218977333657,0 : ForcedSC
+DTG303:H16C2:36.11597594212776,-114.9248955106862,0 36.11599321927406,-114.9247992488278,0 36.11599322367611,-114.9247101119609,0 36.11605658905676,-114.9245799644466,0 36.11605371776921,-114.924510424542,0 36.11602780269266,-114.9244212595603,0 : Forced100%T
+DTG122:H16C1:36.11646018559651,-114.9229014304044,0 36.11627748949324,-114.9232023479998,0 36.1162321906815,-114.923249059664,0 36.11620501472732,-114.9233238035214,0 36.11615783464018,-114.9234323393782,0 36.11609610112649,-114.923458235679,0 36.11603593885916,-114.9234376711527,0 36.11598462210397,-114.9233741185407,0 : Forced50%T
+DTG185:H16R:36.1164666068119,-114.92359539812,0:
+End = Generic LZs
+
+End = Hole 16
+
+Start = Hole 17
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP93 GA552
+Green Width = 18 18,kml 18,KeyIn
+Green Depth = 34 34,kml 34,KeyIn
+Effective Green Diameter = 26
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1411 Green,36.11418694516897,-114.9206608615369,1411,kml Green,,,,GPS Green,1411,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1413 TeeLoc,36.11558266963888,-114.92158459893,1413,kml TeeLoc,,,,GPS TeeLoc,1413,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 192 192,KeyIn
+Horizontal Length = 192
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1414 TeeLoc,36.11546034654032,-114.9215952007841,1414,kml TeeLoc,,,,GPS TeeLoc,1414,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 180 180,KeyIn
+Horizontal Length = 180
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1414 TeeLoc,36.11533972983792,-114.921572976304,1414,kml TeeLoc,,,,GPS TeeLoc,1414,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 166 166,KeyIn
+Horizontal Length = 166
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1411 TeeLoc,36.11517345905786,-114.9214280947407,1411,kml TeeLoc,,,,GPS TeeLoc,1411,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 142 142,KeyIn
+Horizontal Length = 142
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1412 TeeLoc,36.11505911005094,-114.9215333820911,1412,kml TeeLoc,,,,GPS TeeLoc,1412,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 136 136,KeyIn
+Horizontal Length = 136
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG136:H17T5:36.11505911005094,-114.9215333820911,1412: A1412 RCM59 RCW59
+DTG142:H17T4:36.11517345905786,-114.9214280947407,1411: CWS114,50%T CMB114,50%T CMS114,50%T A1411 RCM67 RCW67
+DTG166:H17T3:36.11533972983792,-114.921572976304,1414: CWS139,50%T CMB139,50%T CMS139,50%T A1414 RCM91 RCW91
+DTG180:H17T2:36.11546034654032,-114.9215952007841,1414: CMB153,50%T CMS153,50%T A1414 RCM105
+DTG192:H17T1:36.11558266963888,-114.92158459893,1413: CMS165,50%T A1413 RCM119
+DTG017:H17GS:36.11420590118082,-114.9208309802501,0 :
+DTG000:H17Green:36.11418694516897,-114.9206608615369,1411:D34 W18 LoPD22 A1411 BFraction>0
+DTG000:H17GnO:36.1142049354816,-114.9208304569935,0 36.11422615459219,-114.9208339107644,0 36.11424681569909,-114.9208318351831,0 36.11426189255681,-114.920824230195,0 36.11427194389052,-114.9208186993507,0 36.11427864457306,-114.9208117863657,0 36.11427417635085,-114.9208007274755,0 36.11426468203949,-114.9207862131674,0 36.11425909632815,-114.9207668595744,0 36.1142523936054,-114.9207399029494,0 36.11424680814355,-114.9207191670861,0 36.11424680596962,-114.9206839141865,0 36.11424792152161,-114.920643819507,0 36.11425127174576,-114.920609943031,0 36.11425797235899,-114.9205885101563,0 36.11425350304634,-114.9205622421438,0 36.11424568350554,-114.9205435790321,0 36.11423172068076,-114.9205221523254,0 36.11421775833495,-114.9205048740124,0 36.11419597844531,-114.9204903607457,0 36.11417866715709,-114.9204910554602,0 36.11415800562553,-114.9204917511976,0 36.11414125403833,-114.9205021249807,0 36.1141267362214,-114.9205111153881,0 36.11411612821935,-114.9205304740249,0 36.11410440432241,-114.9205512161387,0 36.11409938198311,-114.9205781780035,0 36.11409435979984,-114.9206051397125,0 36.11409436330766,-114.9206286449058,0 36.11409492616045,-114.9206569881852,0 36.11409660448865,-114.9206791080889,0 36.11410163249379,-114.9207074454992,0 36.11410889341191,-114.9207357819582,0 36.11411894552926,-114.9207620441821,0 36.11413122988785,-114.9207841583804,0 36.11414463069055,-114.9208021260391,0 36.11416584842159,-114.9208152553157,0 36.1142049354816,-114.9208304569935,0 :GP93 GA552
+DTG020,016:H17GB:36.11430404021186,-114.9208008007776,0 36.11430098356783,-114.9205862551271,0:Xing
+DTG036,018:H17FB:36.1144490716337,-114.9208358225358,0 36.11430788149311,-114.9207717383784,0:
+DTG005:H17T5WBLZ1:36.1141921813411,-114.920707853007,1411: Forced MoveBailOut A1411
+DTG009:H17T4WBLZ1:36.114197170312,-114.920752625996,1411: Forced MoveBailOut A1411
+DTG021:H17T3WBLZ1:36.1142470828432,-114.92086425004,1411: A1411
+DTG002:H17T2MBLZ1:36.1141887654692,-114.920677197627,1411: Forced MoveBailOut A1411
+DTG011:H17T1MBLZ1:36.114199732216,-114.920775617531,1412: Forced MoveBailOut A1412
+DTG025:H17GS10:36.1142747668872,-114.920886615391,0:A1411
+End = kml
+
+Start = Generic LZs
+DTG078:H17FS:36.11465923906175,-114.9211972222945,0 :
+DTG018:H17C2:36.11428389432097,-114.9207954746946,0 36.11425912942862,-114.9207117112788,0 36.11426242412036,-114.9206238577374,0 : ForcedSC
+DTG037:H17C1:36.1144362749961,-114.9208822323317,0 36.1144915740169,-114.9207711541536,0 : Forced50%T
+End = Generic LZs
+
+End = Hole 17
+
+Start = Hole 18
+Hole Has Bunkers = No
+Hole Has PA/OB/ER = No
+Hole Has Trees = No
+At Tee Clone From Tee = 1
+At Tee Clone MS Tee = 1 2 3 4 5 6
+At Tee Clone MB Tee = 1 2 3 4 5 6
+At Tee Clone WS Tee = 1 2 3 4 5 6
+At Tee Clone WB Tee = 1 2 3 4 5 6
+Start = Green
+Green Square = No GP90 GA514
+Green Width = 18 18,kml 18,KeyIn
+Green Depth = 31 31,kml 31,KeyIn
+Effective Green Diameter = 25
+Stimpmeter = 0' 0'' 0' 0'' 0' 0'' 
+Green Altitude = 1413 Green,36.11062399416004,-114.9231611771865,1413,kml Green,,,,GPS Green,1413,KeyIn
+Green Bordered by Bunkers = >0_to_1/4
+Greenside Bunker Depth = 0
+Green Surrounded by PA/OB/ER = None ApplyToPA_No ApplyToER_No ApplyToOB_No
+Green Edge to PA/OB/ER = >10
+Lateral PA = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral ER = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Lateral OB = >50 100%T Bounce_No >50 100%T Bounce_No >50 100%T Bounce_No
+Odd Shaped Green = No
+Circle 1 Width =  ,kml ,KeyIn
+Circle 1 Depth = kml  kml
+Circle 1 Percent =  ,kml ,KeyIn
+Circle 2 Width =  ,kml ,KeyIn
+Circle 2 Depth = kml  kml
+Circle 2 Percent =  ,kml ,KeyIn
+Circle 3 Width =  ,kml ,KeyIn
+Circle 3 Depth = kml  kml
+Circle 3 Percent =  ,kml ,KeyIn
+Circle 4 Width =  ,kml ,KeyIn
+Circle 4 Depth = kml  kml
+Circle 4 Percent =  ,kml ,KeyIn
+Green UNPLEASANT = No
+Green Is TIERED = No
+Contour of Green Surface = Relatively Flat or Gently Sloped
+Green Surface Firmness = Normal
+Green has EXTREME Bunkers = No
+R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+Obstacle Crossing Close At Green = No
+Trees Overall = No Trees
+End = Green
+
+Start = Tee 1
+Tee = Black
+Altitude Tee = 1413 TeeLoc,36.11325685498188,-114.9208620685137,1413,kml TeeLoc,,,,GPS TeeLoc,1413,KeyIn
+Tee to Pivot 1 = 273 273,KeyIn
+Altitude Pivot 1 = 1414 P1Loc,36.11185384161809,-114.9230272180271,1414,kml P1Loc,,,,GPS P1Loc,1414,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 150 150,KeyIn
+Horizontal Length = 423
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 1
+
+Start = Tee 2
+Tee = Blue
+Altitude Tee = 1412 TeeLoc,36.11311000867434,-114.9211962815136,1412,kml TeeLoc,,,,GPS TeeLoc,1412,KeyIn
+Tee to Pivot 1 = 236 236,KeyIn
+Altitude Pivot 1 = 1414 P1Loc,36.11185384161809,-114.9230272180271,1414,kml P1Loc,,,,GPS P1Loc,1414,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 150 150,KeyIn
+Horizontal Length = 386
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 2
+
+Start = Tee 3
+Tee = Yellow
+Altitude Tee = 1412 TeeLoc,36.11303191332577,-114.9213586180291,1412,kml TeeLoc,,,,GPS TeeLoc,1412,KeyIn
+Tee to Pivot 1 = 218 218,KeyIn
+Altitude Pivot 1 = 1414 P1Loc,36.11185384161809,-114.9230272180271,1414,kml P1Loc,,,,GPS P1Loc,1414,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 150 150,KeyIn
+Horizontal Length = 368
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 3
+
+Start = Tee 4
+Tee = Red
+Altitude Tee = 1410 TeeLoc,36.11289738895,-114.9217333765915,1410,kml TeeLoc,,,,GPS TeeLoc,1410,KeyIn
+Tee to Pivot 1 = 180 180,KeyIn
+Altitude Pivot 1 = 1414 P1Loc,36.11185384161809,-114.9230272180271,1414,kml P1Loc,,,,GPS P1Loc,1414,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 150 150,KeyIn
+Horizontal Length = 330
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 4
+
+Start = Tee 5
+Tee = 
+Altitude Tee = 1414 TeeLoc,36.11270399667848,-114.9220919727955,1414,kml TeeLoc,,,,GPS TeeLoc,1414,KeyIn
+Tee to Pivot 1 = 138 138,KeyIn
+Altitude Pivot 1 = 1414 P1Loc,36.11185384161809,-114.9230272180271,1414,kml P1Loc,,,,GPS P1Loc,1414,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center = 150 150,KeyIn
+Horizontal Length = 288
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 5
+
+Start = Tee 6
+Tee = 
+Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
+Tee to Pivot 1 =  ,KeyIn
+Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
+Pivot 1 to Pivot 2 =  ,KeyIn
+Altitude Pivot 2 =  P2Loc,,,,kml P2Loc,,,,GPS P2Loc,,KeyIn
+Pivot 2 to Pivot 3 =  ,KeyIn
+Altitude Pivot 3 =  P3Loc,,,,kml P3Loc,,,,GPS P3Loc,,KeyIn
+Tee or Pivot to Green Center =  ,KeyIn
+Horizontal Length = Fix
+
+Start = Men Scratch
+End = Men Scratch
+
+Start = Men Bogey
+End = Men Bogey
+
+Start = Women Scratch
+End = Women Scratch
+
+Start = Women Bogey
+End = Women Bogey
+
+End = Tee 6
+
+Start = kml
+DTG274:H18T5:36.11270399667848,-114.9220919727955,1414: A1414 RCM39 RCW39
+DTG310:H18T4:36.11289738895,-114.9217333765915,1410: A1410 RCM62 RCW62
+DTG342:H18T3:36.11303191332577,-114.9213586180291,1412: A1412 RCM94 RCW94
+DTG359:H18T2:36.11311000867434,-114.9211962815136,1412: A1412 RCM112
+DTG392:H18T1:36.11325685498188,-114.9208620685137,1413: CMB85,50%T A1413 RCM147
+DTG150:H18P1:36.11185384161809,-114.9230272180271,1414:A1414 
+DTG188:H18P:36.1121174555078,-114.9226534236968,0 :
+DTG040:H18P:36.11095121768111,-114.9231958918828,0 :LayupC3
+DTG000:H18Green:36.11062399416004,-114.9231611771865,1413:D31 W18 LoPD28 A1413 BFraction>0
+DTG000:H18GnO:36.11073539416931,-114.9232006845039,0 36.11074945600382,-114.9231742362883,0 36.11075845454558,-114.9231540503822,0 36.11076239083203,-114.9231338641767,0 36.11075845289721,-114.9231178551229,0 36.11075226598284,-114.9231011503117,0 36.11074439216716,-114.923094190794,0 36.11072639554168,-114.9230886250549,0 36.11070952453399,-114.9230900197634,0 36.11067915846537,-114.9230886321314,0 36.11065779132847,-114.9230893306102,0 36.11063136372263,-114.9230837652962,0 36.11060774740915,-114.9230747189866,0 36.11057513401296,-114.923067761071,0 36.11055995147013,-114.9230635857753,0 36.11053970828652,-114.9230601070441,0 36.11052565087751,-114.9230594122372,0 36.11051159455593,-114.9230635901189,0 36.1104992280565,-114.9230754250392,0 36.11048911174992,-114.9230921311138,0 36.11048517857339,-114.9231074432922,0 36.11048574382346,-114.9231248425802,0 36.11049024422979,-114.9231394574094,0 36.11050430365112,-114.9231596382663,0 36.11051948614347,-114.9231749471583,0 36.11053354304966,-114.9231874724127,0 36.11054703921744,-114.9232027803086,0 36.11056278490543,-114.9232257409883,0 36.11057852839425,-114.9232480062242,0 36.11059483324422,-114.9232716631502,0 36.11061001335842,-114.9232904477817,0 36.11062406827083,-114.9233022746266,0 36.11063868455631,-114.923303667027,0 36.11065498764033,-114.9233008853368,0 36.11067129139717,-114.9232897547096,0 36.11069153206032,-114.9232716657245,0 36.11071289959848,-114.9232410490531,0 36.11073539416931,-114.9232006845039,0 :GP90 GA514
+DTG024,022:H18GB:36.11082047853893,-114.9231458683974,0 36.11078284712801,-114.9232589896717,0:Xing
+DTG018,012:H18GB:36.11074102053529,-114.9230433742814,0 36.11063585976849,-114.9230406049347,0:
+DTG197,174:H18FB:36.11202863115187,-114.9221526730136,0 36.11191255706476,-114.9223876414155,0:
+DTG161,132:H18FB:36.11184197309635,-114.9225177432623,0 36.11165530629211,-114.9227410707911,0:
+DTG027,018:H18FB:36.11084378174238,-114.9232035451451,0 36.11076850554021,-114.9232013196632,0:
+DTG040:H18T5WBLZ2:36.11095121768111,-114.9231958918828,1411: Forced MoveLayup A1411
+DTG136:H18T5WBLZ1:36.1117422297905,-114.923048074994,1414: A1414
+DTG070:H18T5WSLZ1:36.111202881176,-114.92314886338,1411: A1411
+DTG081:H18T5MBLZ1:36.1112902925676,-114.923132528763,1411: A1411
+DTG040:H18T5MSLZ1:36.11095121768111,-114.9231958918828,1411: Forced MoveLayup A1411
+DTG045:H18T4WBLZ2:36.1109923620199,-114.923188203216,1411: A1411
+DTG173:H18T4WBLZ1:36.1120143515676,-114.922799621108,1410: A1410
+DTG114:H18T4WSLZ1:36.1115578120824,-114.923082537237,1412: A1412
+DTG126:H18T4MBLZ1:36.1116531108275,-114.923064728706,1412: A1412
+DTG069:H18T4MSLZ1:36.1111901150472,-114.923151248994,1411: A1411
+DTG078:H18T3WBLZ2:36.1112649229358,-114.923137269601,1411: A1411
+DTG202:H18T3WBLZ1:36.1121907299411,-114.922475491338,1410: A1410
+DTG156:H18T3WSLZ1:36.1118954292701,-114.92296824834,1412: A1412
+DTG040:H18T3MBLZ2:36.11095121768111,-114.9231958918828,1411: Forced MoveLayup A1411
+DTG163:H18T3MBLZ1:36.1119495094418,-114.922891564742,1410: A1410
+DTG110:H18T3MSLZ1:36.1115243111584,-114.923088797574,1412: A1412
+DTG040:H18T2MBLZ2:36.11095121768111,-114.9231958918828,1411: Forced MoveLayup A1411
+DTG178:H18T2MBLZ1:36.1120484220758,-114.922751310441,1410: A1410
+DTG132:H18T2MSLZ1:36.1117056389754,-114.92305491274,1413: A1413
+DTG040:H18T1MBLZ2:36.1109545515109,-114.923195268888,1411: A1411
+DTG206:H18T1MBLZ1:36.1122089551824,-114.922431234971,1410: A1410
+DTG167:H18T1MSLZ1:36.1119765495276,-114.922853222943,1410: A1410
+End = kml
+
+Start = Generic LZs
+DTG033:H18R:36.1108944580766,-114.923189870334,0: 
+DTG074:H18R:36.1112324182225,-114.923143343775,0: 
+DTG123:H18R:36.1116327217396,-114.923068538826,0: 
+DTG249:H18FS:36.11241333242039,-114.9219349455773,0 :
+DTG019:H18C3:36.11076247353767,-114.9230733031412,0 36.11077318624369,-114.9231312933326,0 36.1107598047416,-114.9231810002476,0 36.11072902644168,-114.9232389890295,0 36.11068888233577,-114.923293659464,0 36.11064606208281,-114.9233334167122,0 : ForcedSC
+DTG108:H18C2:36.11140568700684,-114.9226437117568,0 36.11145716653267,-114.9227984351029,0 : Forced50%T
+DTG320:H18C1:36.11286886429299,-114.9214603050692,0 36.11276590792113,-114.9212919283605,0 : Forced50%T
+DTG204:H18R:36.1122006050137,-114.922451511692,0:
+DTG167:H18R:36.1119749542555,-114.922855484978,0:
+End = Generic LZs
+
+End = Hole 18
 
