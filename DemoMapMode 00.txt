@@ -1,5 +1,7 @@
-Course Rating Assistant (Rating File Level: V3.28)
+Course Rating Assistant (Rating File Level: V3.29)
 Notes: Based on The 2024 Course Rating System
+Rater = LewCa On 2/21/2026 6:42:15 AM
+Rater = LewCa On 2/21/2026 6:38:47 AM
 Rater = LewCa On 3/5/2025 7:31:18 PM
 Course Setup by LewCa On 1/17/2025 4:02:48 PM
 
@@ -10,6 +12,7 @@ Phone Number =
 Date Measured = 11/20/2024
 Date Rated = 
 Number of Holes = 18
+Clubhouse = 
 
 Notes: Altitude in ft
 Altitude = 1467
@@ -38,7 +41,7 @@ Tee Name5 = Bronze Men Women ScoreCardLength 265 256 148 294 321 403 285 122 442
 Tee Name6 = 
 Pace Policy = 
 
-Settings = BlueToothOff Rate_MapAssisted25 AirLine_Disable 
+Settings = BlueToothOff Rate_MapAssisted25 AirLine_Disable
 End = Course Info
 
 Start = Hole 1
@@ -82,13 +85,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -114,7 +117,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -140,7 +143,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -166,7 +169,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -192,7 +195,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -292,13 +295,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -324,7 +327,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -350,7 +353,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -376,7 +379,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -402,7 +405,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -502,13 +505,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -534,7 +537,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -560,7 +563,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -586,7 +589,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -612,7 +615,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -712,13 +715,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -744,7 +747,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -770,7 +773,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -796,7 +799,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -822,7 +825,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -922,13 +925,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -954,7 +957,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -980,7 +983,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1006,7 +1009,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1032,7 +1035,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1132,13 +1135,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1164,7 +1167,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1190,7 +1193,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1216,7 +1219,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1242,7 +1245,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1342,13 +1345,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1374,7 +1377,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1400,7 +1403,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1426,7 +1429,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1452,7 +1455,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1552,13 +1555,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1584,7 +1587,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1610,7 +1613,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1636,7 +1639,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1662,7 +1665,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1762,13 +1765,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1794,7 +1797,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1820,7 +1823,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1846,7 +1849,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1872,7 +1875,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -1972,13 +1975,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2004,7 +2007,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2030,7 +2033,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2056,7 +2059,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2082,7 +2085,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2182,13 +2185,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2214,7 +2217,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2240,7 +2243,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2266,7 +2269,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2292,7 +2295,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2392,13 +2395,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2424,7 +2427,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2450,7 +2453,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2476,7 +2479,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2502,7 +2505,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2602,13 +2605,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2634,7 +2637,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2660,7 +2663,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2686,7 +2689,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2712,7 +2715,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2812,13 +2815,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2844,7 +2847,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2870,7 +2873,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2896,7 +2899,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -2922,7 +2925,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3022,13 +3025,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3054,7 +3057,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3080,7 +3083,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3106,7 +3109,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3132,7 +3135,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3232,13 +3235,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3264,7 +3267,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3290,7 +3293,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3316,7 +3319,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3342,7 +3345,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3442,13 +3445,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3474,7 +3477,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3500,7 +3503,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3526,7 +3529,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3552,7 +3555,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3652,13 +3655,13 @@ Green Is TIERED = No
 Contour of Green Surface = Relatively Flat Or Gently Sloped
 Green Surface Firmness = Normal
 Green has EXTREME Bunkers = No
-R&R = RoughInconsistent_No RiseOrDrop_No Extreme_No
+R&R = RoughInconsistent_No RiseOrDrop_No Hardpan_No Extreme_No
 Obstacle Crossing Close At Green = No
 Trees Overall = No Trees
 End = Green
 
 Start = Tee 1
-Tee = Black
+Tee = Gold
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3684,7 +3687,7 @@ End = Women Bogey
 End = Tee 1
 
 Start = Tee 2
-Tee = Blue
+Tee = Black
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3710,7 +3713,7 @@ End = Women Bogey
 End = Tee 2
 
 Start = Tee 3
-Tee = Yellow
+Tee = White
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3736,7 +3739,7 @@ End = Women Bogey
 End = Tee 3
 
 Start = Tee 4
-Tee = Red
+Tee = Silver
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
@@ -3762,7 +3765,7 @@ End = Women Bogey
 End = Tee 4
 
 Start = Tee 5
-Tee = 
+Tee = Bronze
 Altitude Tee =  TeeLoc,,,,kml TeeLoc,,,,GPS TeeLoc,,KeyIn
 Tee to Pivot 1 =  ,KeyIn
 Altitude Pivot 1 =  P1Loc,,,,kml P1Loc,,,,GPS P1Loc,,KeyIn
