@@ -15,7 +15,7 @@ Number of Holes = 18
 Clubhouse = 
 
 Notes: Altitude in ft
-Altitude = 1467
+Altitude = 1466
 Notes: Average Wind Speed in mph
 Average Wind Speed = 7-8 7-8
 
